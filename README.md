@@ -1,9 +1,10 @@
-# Anton Bezdolny
+# 🤘 Hello World 🤘
 
 ![face](face_pixel.png)
 
-`🤘 Hello World 🤘`
+### Anton Bezdolny
 
+### Saint-Petersburg RU
 
 ## Projects
 
