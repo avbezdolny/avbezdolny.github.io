@@ -48,4 +48,4 @@ Download:
 ![SQL TOOLS](pyside-logo.png)
 
 Download:
-* [GitHub Repo]()
+* [GitHub Repo](https://github.com/cefuzanton/sql_tools)
