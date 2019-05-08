@@ -1,13 +1,10 @@
+# Anton Bezdolny
+
 ![face](face_pixel.png)
 
-### Anton Bezdolny  
-### Saint-Petersburg RU
+`🤘 Hello World 🤘`
 
-### `🤘 Hello World 🤘`  
-
-
-## Projects  
-
+## Projects
 ### GAME 2048 ⭐
 Swipe to move the tiles.
 When two tiles with the same number touch, they merge into one.
