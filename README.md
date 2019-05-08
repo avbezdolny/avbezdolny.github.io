@@ -1,8 +1,8 @@
-# 🤘 Hello World 🤘
+# Anton Bezdolny
 
 ![face](face_pixel.png)
 
-`Anton Bezdolny`
+`🤘 Hello World 🤘`
 
 ## Projects
 
