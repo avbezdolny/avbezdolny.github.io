@@ -48,6 +48,19 @@ Download:
 
 [![GooglePlay](google-play-badge.png)](https://play.google.com/store/apps/details?id=anton.bezdolny.qml.bukva)
 
+### LONG BACKGAMMON ⭐
+Backgammon is one of the oldest games in the world. Distribution of the game began with the ancient East and now covered almost the whole world. In its essence, the game of backgammon is close to the dispute, and to science, and to art. Backgammon differs from most intellectual games in that each move in them depends not only on the situation on the Board, but also on the case, namely, the number of points dropped on the dice, which makes them the most democratic to the class of players.
+
+Music by Elerya from [opengameart.org](https://opengameart.org/) :)
+
+![Backgammon](scr_backgammon.jpg)
+
+Download:
+* [Android_arm7](https://github.com/codeisrock/codeisrock.github.io/releases/download/Backgammon-v1.0.0/Backgammon.apk)
+* [Windows_x64](https://github.com/codeisrock/codeisrock.github.io/releases/download/Backgammon-v1.0.0/Backgammon_win_x64.7z)
+
+[![GooglePlay](google-play-badge.png)](https://play.google.com/store/apps/details?id=anton.bezdolny.qml.backgammon)
+
 ### SQL TOOLS 🚀
 Удобный GUI для ввода SQL-запросов к базе данных (на примере Oracle) с использованием PySide2 + cx_Oracle (вместо cx_Oracle можно использовать другой модуль Python для доступа к любой базе данных) и экспорта данных в формате CSV.
 
