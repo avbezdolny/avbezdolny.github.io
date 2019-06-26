@@ -21,6 +21,7 @@ Music by Eric Matyas from [soundimage.org](https://soundimage.org) :)
 Download:
 * [Android_arm7](https://github.com/codeisrock/codeisrock.github.io/releases/download/Game2048-v1.1.0/Game2048.apk)
 * [Windows_x64](https://github.com/codeisrock/codeisrock.github.io/releases/download/Game2048-v1.1.0/Game2048_win_x64.7z)
+* [Linux_x64](https://github.com/codeisrock/codeisrock.github.io/releases/download/Game2048-v1.1.0/Game2048_linux_x64.7z)
 
 [![GooglePlay](google-play-badge.png)](https://play.google.com/store/apps/details?id=anton.bezdolny.qml.game2048)
 
@@ -35,6 +36,7 @@ Music by Eric Matyas from [soundimage.org](https://soundimage.org) :)
 Download:
 * [Android_arm7](https://github.com/codeisrock/codeisrock.github.io/releases/download/Mancala-v1.1.0/Mancala.apk)
 * [Windows_x64](https://github.com/codeisrock/codeisrock.github.io/releases/download/Mancala-v1.1.0/Mancala_win_x64.7z)
+* [Linux_x64](https://github.com/codeisrock/codeisrock.github.io/releases/download/Mancala-v1.1.0/Mancala_linux_x64.7z)
 
 [![GooglePlay](google-play-badge.png)](https://play.google.com/store/apps/details?id=anton.bezdolny.qml.mancala)
 
@@ -49,6 +51,7 @@ Download:
 Download:
 * [Android_arm7](https://github.com/codeisrock/codeisrock.github.io/releases/download/Bukva-v1.1.0/Bukva.apk)
 * [Windows_x64](https://github.com/codeisrock/codeisrock.github.io/releases/download/Bukva-v1.1.0/Bukva_win_x64.7z)
+* [Linux_x64](https://github.com/codeisrock/codeisrock.github.io/releases/download/Bukva-v1.1.0/Bukva_linux_x64.7z)
 
 [![GooglePlay](google-play-badge.png)](https://play.google.com/store/apps/details?id=anton.bezdolny.qml.bukva)
 
@@ -63,6 +66,7 @@ Music by Elerya from [opengameart.org](https://opengameart.org/) :)
 Download:
 * [Android_arm7](https://github.com/codeisrock/codeisrock.github.io/releases/download/Backgammon-v1.0.1/Backgammon.apk)
 * [Windows_x64](https://github.com/codeisrock/codeisrock.github.io/releases/download/Backgammon-v1.0.1/Backgammon_win_x64.7z)
+* [Linux_x64](https://github.com/codeisrock/codeisrock.github.io/releases/download/Backgammon-v1.0.1/Backgammon_linux_x64.7z)
 
 [![GooglePlay](google-play-badge.png)](https://play.google.com/store/apps/details?id=anton.bezdolny.qml.backgammon)
 
