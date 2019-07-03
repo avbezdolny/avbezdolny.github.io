@@ -64,9 +64,9 @@ Music by Elerya from [opengameart.org](https://opengameart.org/) :)
 ![Backgammon](scr_backgammon.jpg)
 
 Download:
-* [Android_arm7](https://github.com/codeisrock/codeisrock.github.io/releases/download/Backgammon-v1.0.1/Backgammon.apk)
-* [Windows_x64](https://github.com/codeisrock/codeisrock.github.io/releases/download/Backgammon-v1.0.1/Backgammon_win_x64.7z)
-* [Linux_x64](https://github.com/codeisrock/codeisrock.github.io/releases/download/Backgammon-v1.0.1/Long_Backgammon-x86_64.AppImage)
+* [Android_arm7](https://github.com/codeisrock/codeisrock.github.io/releases/download/Backgammon-v1.0.2/Backgammon.apk)
+* [Windows_x64](https://github.com/codeisrock/codeisrock.github.io/releases/download/Backgammon-v1.0.2/Backgammon_win_x64.7z)
+* [Linux_x64](https://github.com/codeisrock/codeisrock.github.io/releases/download/Backgammon-v1.0.2/Long_Backgammon-x86_64.AppImage)
 
 [![GooglePlay](google-play-badge.png)](https://play.google.com/store/apps/details?id=anton.bezdolny.qml.backgammon)
 
