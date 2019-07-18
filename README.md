@@ -25,7 +25,7 @@ Download:
 
 [![GooglePlay](google-play-badge.png)](https://play.google.com/store/apps/details?id=anton.bezdolny.qml.game2048)
 
-#### NEW 🤘 Black Edition 🤘
+### NEW 🤘 Black Edition 🤘
 
 ![Game2048BE](scr_2048be.jpg)
 
