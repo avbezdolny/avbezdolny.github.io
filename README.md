@@ -25,6 +25,17 @@ Download:
 
 [![GooglePlay](google-play-badge.png)](https://play.google.com/store/apps/details?id=anton.bezdolny.qml.game2048)
 
+#### NEW 🤘 Black Edition 🤘
+
+![Game2048BE](scr_2048be.jpg)
+
+Download:
+* [Android_arm_v7a]()
+* [Android_arm64_v8a]()
+* [Windows_x64]()
+
+[![GooglePlay](google-play-badge.png)]()
+
 ### MANCALA ⭐
 
 Mancala is an ancient family of board games. This version is known as two-rank Mancala and also known as Kalah (Bantumi). Your fields on the board are on the bottom side. Your store (kalah) is the big field on the right edge. Chose a field to pick up all seeds. Moving counter-clockwise, the game now deposits one of the seeds in each field until the seeds run out. If you run into your own store, deposit one seed in it. If you run into your opponent's store, skip it. If the last seed you drop is in your own store, you get a bonus turn. If the last seed you drop is in an empty field on your side, you capture that seed and any seeds in the field directly opposite. When playing with 72 seeds, the "rule of the pie" operates: after the first move in the game, the other player can rotate the board. The game ends when all six fields on one side of the board are empty. The player who still has seeds on his side of the board when the game ends captures all of those seeds. Count all the seeds in each store. The winner is the player with the most seeds.
