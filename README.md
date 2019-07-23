@@ -34,6 +34,7 @@ Download:
 * [Android_arm_v7a](https://github.com/codeisrock/codeisrock.github.io/releases/download/Game2048BE-v1.0/Game2048BE_arm_v7a.apk)
 * [Android_arm64_v8a](https://github.com/codeisrock/codeisrock.github.io/releases/download/Game2048BE-v1.0/Game2048BE_arm64_v8a.apk)
 * [Windows_x64](https://github.com/codeisrock/codeisrock.github.io/releases/download/Game2048BE-v1.0/Game2048BlackEdition_win_x64.7z)
+* [Linux_x64](https://github.com/codeisrock/codeisrock.github.io/releases/download/Game2048BE-v1.0/Game_2048_Black_Edition-x86_64.AppImage)
 
 [![GooglePlay](google-play-badge.png)](https://play.google.com/store/apps/details?id=anton.bezdolny.qml.game2048be)
 
