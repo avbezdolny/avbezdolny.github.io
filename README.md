@@ -1,6 +1,6 @@
 # Anton Bezdolny
 
-![octocat](octocat.png)
+![banner](github_banner.png)
 
 `🤘 Hello World 🤘`
 
