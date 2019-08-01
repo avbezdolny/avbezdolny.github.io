@@ -4,8 +4,6 @@
 
 `🤘 Hello World 🤘`
 
-  
-
 ## Projects
 
 ### GAME 2048 ⭐
