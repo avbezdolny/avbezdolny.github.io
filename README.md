@@ -62,9 +62,9 @@ Download:
 
 ### LONG BACKGAMMON ⭐
 
-Backgammon is one of the oldest games in the world. Distribution of the game began with the ancient East and now covered almost the whole world. In its essence, the game of backgammon is close to the dispute, and to science, and to art. Backgammon differs from most intellectual games in that each move in them depends not only on the situation on the Board, but also on the case, namely, the number of points dropped on the dice, which makes them the most democratic to the class of players.
+Backgammon is one of the oldest games in the world. Distribution of the game began with the ancient East and now covered almost the whole world. Backgammon differs from most intellectual games in that each move in them depends not only on the situation on the Board, but also on the case, namely, the number of points dropped on the dice, which makes them the most democratic to the class of players.
 
-*Игра в нарды является одной из древнейших игр в мире. Распространение игры начиналось с древнего востока и в настоящее время охватило, практически, весь мир. По своей сущности игра в нарды близка и к спору, и к науке, и к искусству. От большинства интеллектуальных игр нарды отличаются тем, что каждый ход в них зависит не только от ситуации на доске, но и от случая, а именно, от числа очков, выпавших на костях, что делает их наиболее демократичными к классу игроков.*
+*Игра в нарды является одной из древнейших игр в мире. Распространение игры начиналось с древнего востока и в настоящее время охватило, практически, весь мир. От большинства интеллектуальных игр нарды отличаются тем, что каждый ход в них зависит не только от ситуации на доске, но и от случая, а именно, от числа очков, выпавших на костях, что делает их наиболее демократичными к классу игроков.*
 
 Music by Elerya from [opengameart.org](https://opengameart.org/) :)
 
