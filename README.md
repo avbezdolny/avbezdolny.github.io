@@ -68,7 +68,7 @@ Backgammon is one of the oldest games in the world. Backgammon differs from most
 
 Music by Elerya from [opengameart.org](https://opengameart.org/) :)
 
-![Backgammon](scr_backgammon.jpg)
+![Backgammon](scr_backgammon.png)
 
 Download:
 * [Android_arm_v7a](https://github.com/codeisrock/codeisrock.github.io/releases/download/Backgammon-v1.1/Backgammon.apk)
