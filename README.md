@@ -19,10 +19,10 @@ Music by Eric Matyas from [soundimage.org](https://soundimage.org) :)
 ![Game2048](scr_2048.png)
 
 Download:
-* [Android_arm_v7a](https://github.com/codeisrock/codeisrock.github.io/releases/download/Game2048-v1.1/Game2048.apk)
-* [Android_arm64_v8a](https://github.com/codeisrock/codeisrock.github.io/releases/download/Game2048-v1.1/Game2048_arm64.apk)
-* [Windows_x64](https://github.com/codeisrock/codeisrock.github.io/releases/download/Game2048-v1.1/Game2048_win_x64.7z)
-* [Linux_x64](https://github.com/codeisrock/codeisrock.github.io/releases/download/Game2048-v1.1/Game_2048-x86_64.AppImage)
+* [Android_arm-v7a](https://github.com/codeisrock/codeisrock.github.io/releases/download/Game2048-v1.3/Game2048_arm7.apk)
+* [Android_arm64-v8a](https://github.com/codeisrock/codeisrock.github.io/releases/download/Game2048-v1.3/Game2048_arm64-v8a.apk)
+* [Windows_x64](https://github.com/codeisrock/codeisrock.github.io/releases/download/Game2048-v1.3/Game2048_win_x64.7z)
+* [Linux_x64](https://github.com/codeisrock/codeisrock.github.io/releases/download/Game2048-v1.3/Game_2048-x86_64.AppImage)
 
 [![GooglePlay](google-play-badge.png)](https://play.google.com/store/apps/details?id=anton.bezdolny.qml.game2048)
 
@@ -37,10 +37,10 @@ Music by Eric Matyas from [soundimage.org](https://soundimage.org) :)
 ![Mancala](scr_mancala.png)
 
 Download:
-* [Android_arm_v7a](https://github.com/codeisrock/codeisrock.github.io/releases/download/Mancala-v1.1/Mancala.apk)
-* [Android_arm64_v8a](https://github.com/codeisrock/codeisrock.github.io/releases/download/Mancala-v1.1/Mancala_arm64.apk)
-* [Windows_x64](https://github.com/codeisrock/codeisrock.github.io/releases/download/Mancala-v1.1/Mancala_win_x64.7z)
-* [Linux_x64](https://github.com/codeisrock/codeisrock.github.io/releases/download/Mancala-v1.1/Mancala-x86_64.AppImage)
+* [Android_arm-v7a](https://github.com/codeisrock/codeisrock.github.io/releases/download/Mancala-v1.3/Mancala_arm7.apk)
+* [Android_arm64-v8a](https://github.com/codeisrock/codeisrock.github.io/releases/download/Mancala-v1.3/Mancala_arm64-v8a.apk)
+* [Windows_x64](https://github.com/codeisrock/codeisrock.github.io/releases/download/Mancala-v1.3/Mancala_win_x64.7z)
+* [Linux_x64](https://github.com/codeisrock/codeisrock.github.io/releases/download/Mancala-v1.3/Mancala-x86_64.AppImage)
 
 [![GooglePlay](google-play-badge.png)](https://play.google.com/store/apps/details?id=anton.bezdolny.qml.mancala)
 
@@ -53,10 +53,10 @@ Download:
 ![БУКВА](scr_bukva.png)
 
 Download:
-* [Android_arm_v7a](https://github.com/codeisrock/codeisrock.github.io/releases/download/Bukva-v1.1/Bukva.apk)
-* [Android_arm64_v8a](https://github.com/codeisrock/codeisrock.github.io/releases/download/Bukva-v1.1/Bukva_arm64.apk)
-* [Windows_x64](https://github.com/codeisrock/codeisrock.github.io/releases/download/Bukva-v1.1/Bukva_win_x64.7z)
-* [Linux_x64](https://github.com/codeisrock/codeisrock.github.io/releases/download/Bukva-v1.1/Bukva-x86_64.AppImage)
+* [Android_arm-v7a](https://github.com/codeisrock/codeisrock.github.io/releases/download/Bukva-v1.3/Bukva_arm7.apk)
+* [Android_arm64-v8a](https://github.com/codeisrock/codeisrock.github.io/releases/download/Bukva-v1.3/Bukva_arm64-v8a.apk)
+* [Windows_x64](https://github.com/codeisrock/codeisrock.github.io/releases/download/Bukva-v1.3/Bukva_win_x64.7z)
+* [Linux_x64](https://github.com/codeisrock/codeisrock.github.io/releases/download/Bukva-v1.3/Bukva-x86_64.AppImage)
 
 [![GooglePlay](google-play-badge.png)](https://play.google.com/store/apps/details?id=anton.bezdolny.qml.bukva)
 
@@ -71,10 +71,10 @@ Music by Elerya from [opengameart.org](https://opengameart.org/) :)
 ![Backgammon](scr_backgammon.png)
 
 Download:
-* [Android_arm_v7a](https://github.com/codeisrock/codeisrock.github.io/releases/download/Backgammon-v1.1/Backgammon.apk)
-* [Android_arm64_v8a](https://github.com/codeisrock/codeisrock.github.io/releases/download/Backgammon-v1.1/Backgammon_arm64.apk)
-* [Windows_x64](https://github.com/codeisrock/codeisrock.github.io/releases/download/Backgammon-v1.1/Backgammon_win_x64.7z)
-* [Linux_x64](https://github.com/codeisrock/codeisrock.github.io/releases/download/Backgammon-v1.1/Long_Backgammon-x86_64.AppImage)
+* [Android_arm-v7a](https://github.com/codeisrock/codeisrock.github.io/releases/download/Backgammon-v1.3/Backgammon_arm7.apk)
+* [Android_arm64-v8a](https://github.com/codeisrock/codeisrock.github.io/releases/download/Backgammon-v1.3/Backgammon_arm64-v8a.apk)
+* [Windows_x64](https://github.com/codeisrock/codeisrock.github.io/releases/download/Backgammon-v1.3/Backgammon_win_x64.7z)
+* [Linux_x64](https://github.com/codeisrock/codeisrock.github.io/releases/download/Backgammon-v1.3/Long_Backgammon-x86_64.AppImage)
 
 [![GooglePlay](google-play-badge.png)](https://play.google.com/store/apps/details?id=anton.bezdolny.qml.backgammon)
 
