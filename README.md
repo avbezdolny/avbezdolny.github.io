@@ -4,6 +4,9 @@
 
 `🤘 Hello World 🤘`
 
+[![VK](vk_logo.png)](https://vk.com/avbezdolny)
+[![Twitter](twitter_logo.png)](https://twitter.com/avbezdolny)
+
 ## Projects
 
 ### GAME 2048 ⭐
