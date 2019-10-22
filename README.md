@@ -5,7 +5,7 @@
 `🤘 Hello World 🤘`
 
 [![VK](vk_logo.png)](https://vk.com/avbezdolny)
-[![E-mail](email_logo.png)](mailto:codeisrock@gmail.com)
+[![E-mail](email_logo.png)](mailto:networkoutpost@gmail.com)
 
 ## Projects
 
