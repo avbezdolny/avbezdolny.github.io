@@ -9,7 +9,33 @@
 
 ## Projects
 
-### ...
+### GAME 2048 🎮
+
+Swipe to move the tiles. When two tiles with the same number touch, they merge into one. Join the numbers and get to the 2048 tile or more!
+
+*Смахивайте плитки жестами по экрану для их движения. Когда две плитки с одинаковыми номерами касаются друг друга, они складываются в одну. Объедините числа и получите плитку 2048 или еще большую!*
+
+Based by Gabriele Cirulli [original game](https://play2048.co) :)
+
+![Game2048](game2048.jpg)
+
+Download:
+* [Android_arm64-v8a](https://github.com/avbezdolny/game2048_kivy/releases/download/v1.0/game2048_kivy.apk)
+* [Windows_x64](https://github.com/avbezdolny/game2048_kivy/releases/download/v1.0/game2048.exe)
+* [GitHub >> game2048_kivy](https://github.com/avbezdolny/game2048_kivy)
+
+### MANCALA 🎮
+
+Mancala is an ancient family of board games. This version is known as two-rank Mancala and also known as Kalah (Bantumi)!
+
+*Манкала относится к древнему семейству настольных игр. Данная версия известна как двухрядная Манкала или Калах (Бантуми)!*
+
+![Mancala](mancala.jpg)
+
+Download:
+* [Android_arm64-v8a](https://github.com/avbezdolny/mancala_kivy/releases/download/v1.0/mancala_kivy.apk)
+* [Windows_x64](https://github.com/avbezdolny/mancala_kivy/releases/download/v1.0/mancala.exe)
+* [GitHub >> mancala_kivy](https://github.com/avbezdolny/mancala_kivy)
 
 ### SQL TOOLS 🚀
 
