@@ -1,6 +1,6 @@
 # Anton Bezdolny
 
-![face](face.jpg)
+![face](face.png)
 
 `🤘 Hello World 🤘`
 
