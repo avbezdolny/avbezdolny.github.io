@@ -37,6 +37,17 @@ Download:
 * [Windows_x64](https://github.com/avbezdolny/mancala_kivy/releases/download/v1.0/mancala.exe)
 * [GitHub >> mancala_kivy](https://github.com/avbezdolny/mancala_kivy)
 
+### БУКВА 🎮
+
+Лингвистическая настольная игра для двух игроков (также известная как "Балда" или "Слова"), в которой необходимо составлять слова с помощью букв, добавляемых определённым образом на квадратное игровое поле (5 x 5)!
+
+![БУКВА](bukva.jpg)
+
+Download:
+* [Android_arm64-v8a](https://github.com/avbezdolny/bukva_kivy/releases/download/v1.0/bukva_kivy.apk)
+* [Windows_x64](https://github.com/avbezdolny/bukva_kivy/releases/download/v1.0/bukva.exe)
+* [GitHub >> bukva_kivy](https://github.com/avbezdolny/bukva_kivy)
+
 ### SQL TOOLS 🚀
 
 Удобный GUI для ввода SQL-запросов к базе данных (на примере Oracle и MS SQL Server) и экспорта данных в формате CSV, с использованием Tkinter, cx_Oracle и Pyodbc!
