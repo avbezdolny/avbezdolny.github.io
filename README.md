@@ -17,7 +17,7 @@ Swipe to move the tiles. When two tiles with the same number touch, they merge i
 
 Based by Gabriele Cirulli [original game](https://play2048.co) :)
 
-![Game2048](game2048.jpg)
+![Game2048](game2048.png)
 
 Download:
 * [Android_arm64-v8a](https://github.com/avbezdolny/game2048_kivy/releases/download/v1.1/game2048_kivy.apk)
