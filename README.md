@@ -5,7 +5,7 @@
 `🤘 Hello World 🤘`
 
 [![VK](vk_logo.png)](https://vk.com/avbezdolny)
-[![E-mail](email_logo.png)](mailto:avbezdolny@mail.ru)
+[![E-mail](email_logo.png)](mailto:avbezdolny@yandex.ru)
 
 ## Projects
 
