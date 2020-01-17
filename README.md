@@ -30,7 +30,7 @@ Mancala is an ancient family of board games. This version is known as two-rank M
 
 *Манкала относится к древнему семейству настольных игр. Данная версия известна как двухрядная Манкала или Калах (Бантуми)!*
 
-![Mancala](mancala.jpg)
+![Mancala](mancala.png)
 
 Download:
 * [Android_arm64-v8a](https://github.com/avbezdolny/mancala_kivy/releases/download/v1.0/mancala_kivy.apk)
