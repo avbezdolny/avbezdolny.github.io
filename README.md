@@ -20,8 +20,8 @@ Based by Gabriele Cirulli [original game](https://play2048.co) :)
 ![Game2048](game2048.png)
 
 Download:
-* [Android_arm64-v8a](https://github.com/avbezdolny/game2048_kivy/releases/download/v1.1/game2048_kivy.apk)
-* [Windows_x64](https://github.com/avbezdolny/game2048_kivy/releases/download/v1.1/game2048.exe)
+* [Android_arm64-v8a](https://github.com/avbezdolny/game2048_kivy/releases/download/v2.0/game2048_kivy_v2.0.apk)
+* [Windows_x64](https://github.com/avbezdolny/game2048_kivy/releases/download/v2.0/game2048_v2.0.exe)
 * [GitHub >> game2048_kivy](https://github.com/avbezdolny/game2048_kivy)
 
 ### MANCALA 🎮
