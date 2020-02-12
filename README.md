@@ -44,8 +44,8 @@ Download:
 ![БУКВА](bukva.png)
 
 Download:
-* [Android_arm64-v8a](https://github.com/avbezdolny/bukva_kivy/releases/download/v1.1/bukva_kivy.apk)
-* [Windows_x64](https://github.com/avbezdolny/bukva_kivy/releases/download/v1.1/bukva.exe)
+* [Android_arm64-v8a](https://github.com/avbezdolny/bukva_kivy/releases/download/v2.0/bukva_kivy_v2.0.apk)
+* [Windows_x64](https://github.com/avbezdolny/bukva_kivy/releases/download/v2.0/bukva_v2.0.exe)
 * [GitHub >> bukva_kivy](https://github.com/avbezdolny/bukva_kivy)
 
 ### SQL TOOLS 🚀
