@@ -33,8 +33,8 @@ Mancala is an ancient family of board games. This version is known as two-rank M
 ![Mancala](mancala.png)
 
 Download:
-* [Android_arm64-v8a](https://github.com/avbezdolny/mancala_kivy/releases/download/v1.1/mancala_kivy.apk)
-* [Windows_x64](https://github.com/avbezdolny/mancala_kivy/releases/download/v1.1/mancala.exe)
+* [Android_arm64-v8a](https://github.com/avbezdolny/mancala_kivy/releases/download/v2.0/mancala_kivy_v2.0.apk)
+* [Windows_x64](https://github.com/avbezdolny/mancala_kivy/releases/download/v2.0/mancala_v2.0.exe)
 * [GitHub >> mancala_kivy](https://github.com/avbezdolny/mancala_kivy)
 
 ### БУКВА 🎮
