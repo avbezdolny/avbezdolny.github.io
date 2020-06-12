@@ -21,8 +21,8 @@ Based by Gabriele Cirulli [original game](https://play2048.co) :)
 ![Game2048](game2048.png)
 
 Download:
-* [Android_arm64-v8a](https://github.com/avbezdolny/game2048_kivy/releases/download/v2.1/game2048_kivy.apk)
-* [Windows_x64](https://github.com/avbezdolny/game2048_kivy/releases/download/v2.1/game2048.exe)
+* [Android](https://github.com/avbezdolny/game2048_kivy/releases/download/v2.2/game2048-2.2-armeabi-v7a.apk)
+* [Windows](https://github.com/avbezdolny/game2048_kivy/releases/download/v2.2/game2048.exe)
 * [GitHub >> game2048_kivy](https://github.com/avbezdolny/game2048_kivy)
 
 ### MANCALA 🎮
@@ -34,8 +34,8 @@ Mancala is an ancient family of board games. This version is known as two-rank M
 ![Mancala](mancala.png)
 
 Download:
-* [Android_arm64-v8a](https://github.com/avbezdolny/mancala_kivy/releases/download/v2.1/mancala_kivy.apk)
-* [Windows_x64](https://github.com/avbezdolny/mancala_kivy/releases/download/v2.1/mancala.exe)
+* [Android](https://github.com/avbezdolny/mancala_kivy/releases/download/v2.2/mancala-2.2-armeabi-v7a.apk)
+* [Windows](https://github.com/avbezdolny/mancala_kivy/releases/download/v2.2/mancala.exe)
 * [GitHub >> mancala_kivy](https://github.com/avbezdolny/mancala_kivy)
 
 ### БУКВА 🎮
@@ -45,8 +45,8 @@ Download:
 ![БУКВА](bukva.png)
 
 Download:
-* [Android_arm64-v8a](https://github.com/avbezdolny/bukva_kivy/releases/download/v2.1/bukva_kivy.apk)
-* [Windows_x64](https://github.com/avbezdolny/bukva_kivy/releases/download/v2.1/bukva.exe)
+* [Android](https://github.com/avbezdolny/bukva_kivy/releases/download/v2.2/bukva-2.2-armeabi-v7a.apk)
+* [Windows](https://github.com/avbezdolny/bukva_kivy/releases/download/v2.2/bukva.exe)
 * [GitHub >> bukva_kivy](https://github.com/avbezdolny/bukva_kivy)
 
 ### SQL TOOLS 🚀
