@@ -63,6 +63,10 @@ Download:
 
 ### Notebooks 📒
 
+DS & ML
+* [Кластеризация данных методом k-средних](https://github.com/avbezdolny/notebooks/blob/main/K-means.ipynb)
+* [Линейная регрессия в Python](https://github.com/avbezdolny/notebooks/blob/main/LinearRegression.ipynb)
+
 ### SQL TOOLS 🚀
 
 Удобный GUI для ввода SQL-запросов к базе данных (на примере Oracle и MS SQL Server) и экспорта данных в формате CSV, с использованием Tkinter, cx_Oracle и Pyodbc!
