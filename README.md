@@ -67,8 +67,9 @@ DS & ML
 
 ![Plot](plot.png)
 
-* [Кластеризация данных методом k-средних](https://github.com/avbezdolny/notebooks/blob/main/K-means.ipynb)
-* [Линейная регрессия в Python](https://github.com/avbezdolny/notebooks/blob/main/LinearRegression.ipynb)
+Download:
+* [GitHub >> Кластеризация данных методом k-средних](https://github.com/avbezdolny/notebooks/blob/main/K-means.ipynb)
+* [GitHub >> Линейная регрессия в Python](https://github.com/avbezdolny/notebooks/blob/main/LinearRegression.ipynb)
 
 ### SQL TOOLS 🚀
 
