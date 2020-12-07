@@ -10,6 +10,18 @@
 
 ## Projects
 
+### TETRIS 🎮
+
+Collect as many lines of tetramino shapes as possible until the playing field is full.
+
+*Соберите как можно больше линий из фигурок тетрамино, пока игровое поле не переполнилось.*
+
+![TETRIS](tetris.png)
+
+Download:
+* [Windows](https://github.com/avbezdolny/pygame_tetris/releases/download/v1.0/pygame_tetris.exe)
+* [GitHub >> pygame_tetris](https://github.com/avbezdolny/pygame_tetris)
+
 ### GAME 2048 🎮
 
 Swipe to move the tiles. When two tiles with the same number touch, they merge into one. Join the numbers and get to the 2048 tile or more!
@@ -48,6 +60,8 @@ Download:
 * [Android](https://github.com/avbezdolny/bukva_kivy/releases/download/v2.2/bukva-2.2-armeabi-v7a.apk)
 * [Windows](https://github.com/avbezdolny/bukva_kivy/releases/download/v2.2/bukva.exe)
 * [GitHub >> bukva_kivy](https://github.com/avbezdolny/bukva_kivy)
+
+### Notebooks 📒
 
 ### SQL TOOLS 🚀
 
