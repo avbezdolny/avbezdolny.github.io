@@ -22,6 +22,18 @@ Download:
 * [Windows](https://github.com/avbezdolny/pygame_tetris/releases/download/v1.0/pygame_tetris.exe)
 * [GitHub >> pygame_tetris](https://github.com/avbezdolny/pygame_tetris)
 
+### MINESWEEPER 🎮
+
+A simple minesweeper game made in Python + Beeware!
+
+*Простая версия игры сапер, написанная на Python + Beeware!*
+
+![Minesweeper](minesweeper.png)
+
+Download:
+* [Windows](https://github.com/avbezdolny/beeware_minesweeper/releases/download/v1.0/Minesweeper-1.0.msi)
+* [GitHub >> beeware_minesweeper](https://github.com/avbezdolny/beeware_minesweeper)
+
 ### GAME 2048 🎮
 
 Swipe to move the tiles. When two tiles with the same number touch, they merge into one. Join the numbers and get to the 2048 tile or more!
@@ -61,7 +73,7 @@ Download:
 * [Windows](https://github.com/avbezdolny/bukva_kivy/releases/download/v2.2/bukva.exe)
 * [GitHub >> bukva_kivy](https://github.com/avbezdolny/bukva_kivy)
 
-### Notebooks 📒
+### NOTEBOOKS 📒
 
 DS & ML
 
