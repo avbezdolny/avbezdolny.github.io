@@ -61,18 +61,6 @@ Download:
 * [Windows](https://github.com/avbezdolny/bukva_kivy/releases/download/v2.2/bukva.exe)
 * [GitHub >> bukva_kivy](https://github.com/avbezdolny/bukva_kivy)
 
-### MINESWEEPER 🎮
-
-A simple minesweeper game made in Python + Beeware!
-
-*Простая версия игры сапер, написанная на Python + Beeware!*
-
-![Minesweeper](minesweeper.png)
-
-Download:
-* [Windows](https://github.com/avbezdolny/beeware_minesweeper/releases/download/v1.0/Minesweeper-1.0.msi)
-* [GitHub >> beeware_minesweeper](https://github.com/avbezdolny/beeware_minesweeper)
-
 ### NOTEBOOKS 📒
 
 DS & ML
