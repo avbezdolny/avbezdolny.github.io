@@ -22,6 +22,18 @@ Download:
 * [Windows](https://github.com/avbezdolny/pygame_tetris/releases/download/v1.0.1/pygame_tetris.exe)
 * [GitHub >> pygame_tetris](https://github.com/avbezdolny/pygame_tetris)
 
+### MINES 🎮
+
+Open all cells without mines. No timers, no flags, pure puzzle.
+
+*Откройте все ячейки без бомб. Никаких таймеров, никаких флагов, чистый пазл.*
+
+![MINES](mines.png)
+
+Download:
+* [Windows](https://github.com/avbezdolny/pygame_mines/releases/download/v1.0/pygame_mines.exe)
+* [GitHub >> pygame_mines](https://github.com/avbezdolny/pygame_mines)
+
 ### GAME 2048 🎮
 
 Swipe to move the tiles. When two tiles with the same number touch, they merge into one. Join the numbers and get to the 2048 tile or more!
