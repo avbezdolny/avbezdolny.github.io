@@ -19,6 +19,7 @@ Collect as many lines of tetramino shapes as possible until the playing field is
 ![TETRIS](tetris.png)
 
 Download:
+* [Android](https://github.com/avbezdolny/pygame_tetris/releases/download/v1.0.2/tetris.apk)
 * [Windows](https://github.com/avbezdolny/pygame_tetris/releases/download/v1.0.1/pygame_tetris.exe)
 * [GitHub >> pygame_tetris](https://github.com/avbezdolny/pygame_tetris)
 
