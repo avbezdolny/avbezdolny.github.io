@@ -32,6 +32,7 @@ Open all cells without mines. No timers, no flags, pure puzzle.
 ![MINES](mines.png)
 
 Download:
+* [Android](https://github.com/avbezdolny/pygame_mines/releases/download/v1.0.1/mines.apk)
 * [Windows](https://github.com/avbezdolny/pygame_mines/releases/download/v1.0/pygame_mines.exe)
 * [GitHub >> pygame_mines](https://github.com/avbezdolny/pygame_mines)
 
