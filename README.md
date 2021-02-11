@@ -92,4 +92,4 @@ Download:
 ![SQLtools](sql_tools_tk.png)
 
 Download:
-* [GitHub >> sql_tools_tk](https://github.com/avbezdolny/sql_tools_tk)
+* [GitHub >> sql_tools](https://github.com/avbezdolny/sql_tools)
