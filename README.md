@@ -87,7 +87,7 @@ Download:
 
 ### SQL TOOLS 🚀
 
-Удобный GUI для ввода SQL-запросов к базе данных (на примере Oracle и MS SQL Server) и экспорта данных в формате CSV, с использованием Tkinter, cx_Oracle и Pyodbc!
+GUI на Python + Tkinter/PySide для SQL-запросов к базам данных, на примере MS SQL Server (pyodbc), Oracle (cx_Oracle) и SQLite (sqlite3)!
 
 ![SQLtools](sql_tools_tk.png)
 
