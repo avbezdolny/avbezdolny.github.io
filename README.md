@@ -47,33 +47,9 @@ Based by Gabriele Cirulli [original game](https://play2048.co) :)
 ![Game2048](game2048.png)
 
 Download:
-* [Android](https://github.com/avbezdolny/game2048_kivy/releases/download/v2.2/game2048-2.2-armeabi-v7a.apk)
-* [Windows](https://github.com/avbezdolny/game2048_kivy/releases/download/v2.2/game2048.exe)
-* [GitHub >> game2048_kivy](https://github.com/avbezdolny/game2048_kivy)
-
-### MANCALA 🎮
-
-Mancala is an ancient family of board games. This version is known as two-rank Mancala and also known as Kalah (Bantumi)!
-
-*Манкала относится к древнему семейству настольных игр. Данная версия известна как двухрядная Манкала или Калах (Бантуми)!*
-
-![Mancala](mancala.png)
-
-Download:
-* [Android](https://github.com/avbezdolny/mancala_kivy/releases/download/v2.2/mancala-2.2-armeabi-v7a.apk)
-* [Windows](https://github.com/avbezdolny/mancala_kivy/releases/download/v2.2/mancala.exe)
-* [GitHub >> mancala_kivy](https://github.com/avbezdolny/mancala_kivy)
-
-### БУКВА 🎮
-
-Лингвистическая настольная игра для двух игроков (также известная как "Балда" или "Слова"), в которой необходимо составлять слова с помощью букв, добавляемых определённым образом на квадратное игровое поле (5 x 5)!
-
-![БУКВА](bukva.png)
-
-Download:
-* [Android](https://github.com/avbezdolny/bukva_kivy/releases/download/v2.2/bukva-2.2-armeabi-v7a.apk)
-* [Windows](https://github.com/avbezdolny/bukva_kivy/releases/download/v2.2/bukva.exe)
-* [GitHub >> bukva_kivy](https://github.com/avbezdolny/bukva_kivy)
+* [Android](https://github.com/avbezdolny/pygame_2048/releases/download/v1.0/game2048.apk)
+* [Windows](https://github.com/avbezdolny/pygame_2048/releases/download/v1.0/pygame_2048.exe)
+* [GitHub >> pygame_2048](https://github.com/avbezdolny/pygame_2048)
 
 ### NOTEBOOKS 📒
 
