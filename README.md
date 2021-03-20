@@ -47,8 +47,8 @@ Based by Gabriele Cirulli [original game](https://play2048.co) :)
 ![Game2048](game2048.png)
 
 Download:
-* [Android](https://github.com/avbezdolny/pygame_2048/releases/download/v1.0/game2048.apk)
-* [Windows](https://github.com/avbezdolny/pygame_2048/releases/download/v1.0/pygame_2048.exe)
+* [Android](https://github.com/avbezdolny/pygame_2048/releases/download/v2.0/game2048.apk)
+* [Windows](https://github.com/avbezdolny/pygame_2048/releases/download/v2.0/pygame_2048.exe)
 * [GitHub >> pygame_2048](https://github.com/avbezdolny/pygame_2048)
 
 ### NOTEBOOKS 📒
