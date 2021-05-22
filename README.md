@@ -20,7 +20,7 @@ Based by Gabriele Cirulli [original game](https://play2048.co) :)
 
 ![Game2048](game2048.png)
 
-Download:
+Download:  
 [![Google Play](google_play_badge.png)](https://play.google.com/store/apps/details?id=avbezdolny.software.game2048)
 
 ### TETRIS 🎮
