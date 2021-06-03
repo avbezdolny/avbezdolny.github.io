@@ -16,7 +16,7 @@ Swipe to move the tiles. When two tiles with the same number touch, they merge i
 
 *Смахивайте плитки жестами по экрану для их движения. Когда две плитки с одинаковыми номерами касаются друг друга, они складываются в одну. Объединяйте числа и получите плитку 2048 или еще большую!*
 
-Based by Gabriele Cirulli [original game](https://play2048.co) ;)
+Based by Gabriele Cirulli [original game](https://play2048.co) :)
 
 ![Game2048](game2048.png)
 
