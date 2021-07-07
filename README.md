@@ -10,6 +10,17 @@
 
 ## Projects
 
+### MANCALA 🎮
+
+Mancala is an ancient family of board games. This version is known as two-rank Mancala and also known as Kalah (Bantumi).
+
+*Манкала относится к древнему семейству настольных игр. Данная версия известна как двухрядная Манкала или Калах (Бантуми).*
+
+![Mancala](mancala.png)
+
+Download:  
+[![Google Play](google_play_badge.png)](https://play.google.com/store/apps/details?id=avbezdolny.software.mancala)
+
 ### GAME 2048 🎮
 
 Swipe to move the tiles. When two tiles with the same number touch, they merge into one. Join the numbers and get to the 2048 tile or more!
