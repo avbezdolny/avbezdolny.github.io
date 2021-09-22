@@ -16,8 +16,7 @@ I want to inform you that when using my Service, I can receive information throu
 
 **Other**
 
-This Service does not use “cookies”.
-
+This Service does not use “cookies”.  
 This Service is not intended for children.
 
 **Changes to This Privacy Policy**
