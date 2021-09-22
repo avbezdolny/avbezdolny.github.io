@@ -21,6 +21,8 @@ Mancala is an ancient family of board games. This version is known as two-rank M
 Download:  
 [![Google Play](google_play_badge.png)](https://play.google.com/store/apps/details?id=avbezdolny.software.mancala)
 
+[Privacy Policy](mancala_privacy_policy.md)
+
 ### MINES 🎮
 
 The goal of the game is to open all the cells on the field, except for the cells containing mines. The number in the open cell indicates the number of hidden mines in adjacent cells located horizontally, vertically, and diagonally. You can mark a cell with a flag if you think that it is mined. The cell with the flag is blocked from accidental clicking.
@@ -31,3 +33,5 @@ The goal of the game is to open all the cells on the field, except for the cells
 
 Download:  
 [![Google Play](google_play_badge.png)](https://play.google.com/store/apps/details?id=avbezdolny.software.mines)
+
+[Privacy Policy](mines_privacy_policy.md)
