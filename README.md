@@ -5,6 +5,7 @@
 `🤘 Hello World 🤘`
 
 [![Twitter](twitter_logo.png)](https://twitter.com/avbezdolny)
+[![Facebook](facebook_logo.png)](https://www.facebook.com/avbezdolny)
 [![VK](vk_logo.png)](https://vk.com/avbezdolny)
 [![E-mail](email_logo.png)](mailto:avbezdolny@yandex.ru)
 
@@ -31,6 +32,6 @@ The goal of the game is to open all the cells on the field, except for the cells
 ![Mines](mines.png)
 
 Download:  
-[![Google Play](google_play_badge.png)](https://play.google.com/store/apps/details?id=avbezdolny.software.mines)  
+[![Google Play](google_play_badge.png)](https://play.google.com/store/apps/details?id=avbezdolny.software.mines)
 [![Microsoft Store](ms_store_badge.png)](https://www.microsoft.com/store/apps/9P9F2QV0DXFJ)  
 [Privacy Policy](mines_privacy_policy.md)
