@@ -20,7 +20,8 @@ Mancala is an ancient family of board games. This version is known as two-rank M
 ![Mancala](mancala.png)
 
 Download:  
-[![Google Play](google_play_badge.png)](https://play.google.com/store/apps/details?id=avbezdolny.software.mancala)  
+[![Google Play](google_play_badge.png)](https://play.google.com/store/apps/details?id=avbezdolny.software.mancala)
+[![Microsoft Store](ms_store_badge.png)](https://www.microsoft.com/store/apps/9PD4S493C2RQ)  
 [Privacy Policy](mancala_privacy_policy.md)
 
 ### MINES 🎮
