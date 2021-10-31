@@ -23,7 +23,7 @@ This Service is not intended for children.
 
 I may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. I will notify you of any changes by posting the new Privacy Policy on this page.
 
-This policy is effective as of 2021-09-22
+This policy is effective as of 2021-10-31
 
 **Contact Us**
 
