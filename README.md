@@ -11,6 +11,18 @@
 
 ## Projects
 
+### CUBE 🎮
+
+When assembled, each side of the cube has its own color consisting of the color of the sides of its elements. At the beginning of the game, the cube is shuffled and the goal is to return the cube to its assembled state by rotating the elements.
+
+*В собранном состоянии каждая сторона куба имеет свой цвет состоящий из цвета сторон его элементов. В начале игры куб перемешивается и цель в том, чтобы вращая элементы вернуть куб в собранное состояние.*
+
+![Cube](cube.png)
+
+Download:  
+[![Google Play](google_play_badge.png)](https://play.google.com/store/apps/details?id=avbezdolny.software.cube)  
+[Privacy Policy](cube_privacy_policy.md)
+
 ### MANCALA 🎮
 
 Mancala is an ancient family of board games. This version is known as two-rank Mancala and also known as Kalah (Bantumi).
