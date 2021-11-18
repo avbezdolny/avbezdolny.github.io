@@ -19,7 +19,6 @@ When assembled, each side of the cube has its own color consisting of the color 
 
 ![Cube](cube.png)
 
-Download:  
 [![Google Play](google_play_badge.png)](https://play.google.com/store/apps/details?id=avbezdolny.software.cube)
 [![Microsoft Store](ms_store_badge.png)](https://www.microsoft.com/store/apps/9NXMPM1FK3KK)  
 [Privacy Policy](cube_privacy_policy.md)
@@ -32,7 +31,6 @@ Mancala is an ancient family of board games. This version is known as two-rank M
 
 ![Mancala](mancala.png)
 
-Download:  
 [![Google Play](google_play_badge.png)](https://play.google.com/store/apps/details?id=avbezdolny.software.mancala)
 [![Microsoft Store](ms_store_badge.png)](https://www.microsoft.com/store/apps/9PD4S493C2RQ)  
 [Privacy Policy](mancala_privacy_policy.md)
@@ -45,7 +43,6 @@ The goal of the game is to open all the cells on the field, except for the cells
 
 ![Mines](mines.png)
 
-Download:  
 [![Google Play](google_play_badge.png)](https://play.google.com/store/apps/details?id=avbezdolny.software.mines)
 [![Microsoft Store](ms_store_badge.png)](https://www.microsoft.com/store/apps/9P9F2QV0DXFJ)  
 [Privacy Policy](mines_privacy_policy.md)
