@@ -20,7 +20,8 @@ When assembled, each side of the cube has its own color consisting of the color 
 ![Cube](cube.png)
 
 Download:  
-[![Google Play](google_play_badge.png)](https://play.google.com/store/apps/details?id=avbezdolny.software.cube)  
+[![Google Play](google_play_badge.png)](https://play.google.com/store/apps/details?id=avbezdolny.software.cube)
+[![Microsoft Store](ms_store_badge.png)](https://www.microsoft.com/store/apps/9NXMPM1FK3KK)  
 [Privacy Policy](cube_privacy_policy.md)
 
 ### MANCALA 🎮
