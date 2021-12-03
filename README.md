@@ -7,7 +7,7 @@
 [![Twitter](twitter_logo.png)](https://twitter.com/avbezdolny)
 [![Facebook](facebook_logo.png)](https://www.facebook.com/avbezdolny)
 [![VK](vk_logo.png)](https://vk.com/avbezdolny)
-[![E-mail](email_logo.png)](mailto:avbezdolny@yandex.ru)
+[![E-mail](email_logo.png)](mailto:softwareoutpost@gmail.com)
 
 ## Projects
 
