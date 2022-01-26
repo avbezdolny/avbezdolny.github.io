@@ -6,6 +6,18 @@
 
 ## Projects
 
+### BILLIARD 🎮
+
+A classic board game with balls for two players according to simplified rules.
+
+*Классическая настольная игра с шарами для двух игроков по упрощенным правилам.*
+
+![Billiard](billiard.png)
+
+[![Google Play](google_play_badge.png)](https://play.google.com/store/apps/details?id=avbezdolny.software.billiard)
+[![Microsoft Store](ms_store_badge.png)](https://www.microsoft.com/store/apps/9PD1V317BJTK)  
+[Privacy Policy](billiard_privacy_policy.md)
+
 ### CUBE 🎮
 
 When assembled, each side of the cube has its own color consisting of the color of the sides of its elements. At the beginning of the game, the cube is shuffled and the goal is to return the cube to its assembled state by rotating the elements.
