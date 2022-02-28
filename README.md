@@ -14,6 +14,7 @@ Game 2048 and puzzle 15.
 
 ![Game2048](game2048.png)
 
+[![Google Play](google_play_badge.png)](https://play.google.com/store/apps/details?id=avbezdolny.software.game2048)
 [![Microsoft Store](ms_store_badge.png)](https://www.microsoft.com/store/apps/9P9MPFD6TSW1)  
 [Privacy Policy](game2048_privacy_policy.md)
 
