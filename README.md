@@ -6,6 +6,17 @@
 
 ## Projects
 
+### GAME 2048 + 15 🎮
+
+Game 2048 and puzzle 15.
+
+*Игра 2048 и головоломка 15 (пятнашки).*
+
+![Game2048](game2048.png)
+
+[![Microsoft Store](ms_store_badge.png)](https://www.microsoft.com/store/apps/9P9MPFD6TSW1)  
+[Privacy Policy](game2048_privacy_policy.md)
+
 ### BILLIARD 🎮
 
 A classic board game with balls for two players according to simplified rules.
