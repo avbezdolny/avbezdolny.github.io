@@ -6,6 +6,17 @@
 
 ## Projects
 
+### БУКВА 🎮
+
+*Лингвистическая настольная игра для двух игроков и одиночный режим головоломки-загадки (Wordle).*
+
+![БУКВА](bukva.png)
+
+[![Android](android_button.png)](public/BUKVA.apk)
+[![Linux](linux_button.png)](public/BUKVA_X11_x86_64.tar.gz)
+[![Windows](windows_button.png)](public/BUKVA_win_x64.7z)  
+[Политика конфиденциальности](bukva_privacy_policy.md)
+
 ### GAME 2048 + 15 🎮
 
 Game 2048 and puzzle 15.
