@@ -13,8 +13,9 @@
 ![БУКВА](bukva.png)
 
 [![Android](android_button.png)](public/BUKVA.apk)
+[![Windows](windows_button.png)](public/BUKVA_win_x64.7z)
 [![Linux](linux_button.png)](public/BUKVA_X11_x86_64.tar.gz)
-[![Windows](windows_button.png)](public/BUKVA_win_x64.7z)  
+[![DEB](deb_button.png)](public/BUKVA_1.0_amd64.deb)  
 [Политика конфиденциальности](bukva_privacy_policy.md)
 
 ### GAME 2048 + 15 🎮
