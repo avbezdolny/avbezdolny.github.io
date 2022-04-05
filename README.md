@@ -27,7 +27,9 @@ Game 2048 and puzzle 15.
 ![Game2048](game2048.png)
 
 [![Google Play](google_play_badge.png)](https://play.google.com/store/apps/details?id=avbezdolny.software.game2048)
-[![Microsoft Store](ms_store_badge.png)](https://www.microsoft.com/store/apps/9P9MPFD6TSW1)  
+[![Microsoft Store](ms_store_badge.png)](https://www.microsoft.com/store/apps/9P9MPFD6TSW1)
+[![Linux](linux_button.png)](public/Game2048_X11_x86_64.tar.gz)
+[![DEB](deb_button.png)](public/Game2048_1.0_amd64.deb)  
 [Privacy Policy](game2048_privacy_policy.md)
 
 ### BILLIARD 🎮
