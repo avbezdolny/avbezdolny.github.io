@@ -65,7 +65,9 @@ Mancala is an ancient family of board games. This version is known as two-rank M
 ![Mancala](mancala.png)
 
 [![Google Play](google_play_badge.png)](https://play.google.com/store/apps/details?id=avbezdolny.software.mancala)
-[![Microsoft Store](ms_store_badge.png)](https://www.microsoft.com/store/apps/9PD4S493C2RQ)  
+[![Microsoft Store](ms_store_badge.png)](https://www.microsoft.com/store/apps/9PD4S493C2RQ)
+[![Linux](linux_button.png)](public/Mancala_X11_x86_64.tar.gz)
+[![DEB](deb_button.png)](public/Mancala_1.0_amd64.deb)  
 [Privacy Policy](mancala_privacy_policy.md)
 
 ### MINES 🎮
@@ -77,5 +79,7 @@ The goal of the game is to open all the cells on the field, except for the cells
 ![Mines](mines.png)
 
 [![Google Play](google_play_badge.png)](https://play.google.com/store/apps/details?id=avbezdolny.software.mines)
-[![Microsoft Store](ms_store_badge.png)](https://www.microsoft.com/store/apps/9P9F2QV0DXFJ)  
+[![Microsoft Store](ms_store_badge.png)](https://www.microsoft.com/store/apps/9P9F2QV0DXFJ)
+[![Linux](linux_button.png)](public/Mines_X11_x86_64.tar.gz)
+[![DEB](deb_button.png)](public/Mines_1.0_amd64.deb)  
 [Privacy Policy](mines_privacy_policy.md)
