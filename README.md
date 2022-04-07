@@ -41,7 +41,9 @@ A classic board game with balls for two players according to simplified rules.
 ![Billiard](billiard.png)
 
 [![Google Play](google_play_badge.png)](https://play.google.com/store/apps/details?id=avbezdolny.software.billiard)
-[![Microsoft Store](ms_store_badge.png)](https://www.microsoft.com/store/apps/9PD1V317BJTK)  
+[![Microsoft Store](ms_store_badge.png)](https://www.microsoft.com/store/apps/9PD1V317BJTK)
+[![Linux](linux_button.png)](public/Billiard_X11_x86_64.tar.gz)
+[![DEB](deb_button.png)](public/Billiard_1.0_amd64.deb)  
 [Privacy Policy](billiard_privacy_policy.md)
 
 ### CUBE 🎮
@@ -53,7 +55,9 @@ When assembled, each side of the cube has its own color consisting of the color 
 ![Cube](cube.png)
 
 [![Google Play](google_play_badge.png)](https://play.google.com/store/apps/details?id=avbezdolny.software.cube)
-[![Microsoft Store](ms_store_badge.png)](https://www.microsoft.com/store/apps/9NXMPM1FK3KK)  
+[![Microsoft Store](ms_store_badge.png)](https://www.microsoft.com/store/apps/9NXMPM1FK3KK)
+[![Linux](linux_button.png)](public/Cube_X11_x86_64.tar.gz)
+[![DEB](deb_button.png)](public/Cube_1.0_amd64.deb)  
 [Privacy Policy](cube_privacy_policy.md)
 
 ### MANCALA 🎮
