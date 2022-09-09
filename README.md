@@ -14,7 +14,8 @@ Mahjong Solitaire is a board game for one person, similar in structure and gamep
 
 ![Turtle](turtle.png)
 
-[![Windows](windows_button.png)](public/Turtle_win_x64.7z)  
+[![Windows](windows_button.png)](public/Turtle_win_x64.7z)
+[![Linux](linux_button.png)](public/Turtle_X11_x86_64.tar.lzma)  
 [Privacy Policy](turtle_privacy_policy.md)
 
 ### БУКВА 🎮
