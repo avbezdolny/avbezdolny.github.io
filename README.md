@@ -24,6 +24,7 @@ Mahjong Solitaire is a board game for one person, similar in structure and gamep
 ![БУКВА](bukva.png)
 
 [![Android](android_button.png)](public/BUKVA.apk)
+[![RuStore](rustore_badge.png)](https://apps.rustore.ru/app/avbezdolny.software.bukva)
 [![Windows](windows_button.png)](public/BUKVA_win_x64.7z)
 [![Linux](linux_button.png)](public/BUKVA_X11_x86_64.tar.gz)
 [![DEB](deb_button.png)](public/BUKVA_1.0_amd64.deb)  
@@ -38,6 +39,7 @@ Game 2048 and puzzle 15.
 ![Game2048](game2048.png)
 
 [![Google Play](google_play_badge.png)](https://play.google.com/store/apps/details?id=avbezdolny.software.game2048)
+[![RuStore](rustore_badge.png)](https://apps.rustore.ru/app/avbezdolny.software.game2048)
 [![Microsoft Store](ms_store_badge.png)](https://www.microsoft.com/store/apps/9P9MPFD6TSW1)
 [![Linux](linux_button.png)](public/Game2048_X11_x86_64.tar.gz)
 [![DEB](deb_button.png)](public/Game2048_1.0_amd64.deb)  
@@ -66,6 +68,7 @@ When assembled, each side of the cube has its own color consisting of the color 
 ![Cube](cube.png)
 
 [![Google Play](google_play_badge.png)](https://play.google.com/store/apps/details?id=avbezdolny.software.cube)
+[![RuStore](rustore_badge.png)](https://apps.rustore.ru/app/avbezdolny.software.cube)
 [![Microsoft Store](ms_store_badge.png)](https://www.microsoft.com/store/apps/9NXMPM1FK3KK)
 [![Linux](linux_button.png)](public/Cube_X11_x86_64.tar.gz)
 [![DEB](deb_button.png)](public/Cube_1.0_amd64.deb)  
