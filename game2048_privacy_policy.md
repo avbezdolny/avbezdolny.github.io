@@ -27,4 +27,4 @@ This policy is effective as of 2022-02-25
 
 **Contact Us**
 
-If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me at softwareoutpost@gmail.com.
+If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me at networkoutpost@gmail.com.
