@@ -4,7 +4,8 @@
 
 `🤘 Hello World 🤘` [📧](mailto:networkoutpost@gmail.com)
 
-## Projects  *Sorry, the site is in the process of updating ;)*
+## Projects  
+*Sorry, the site is in the process of updating ;)*
 
 ### KALEIDOSCOPE 🎮
 
