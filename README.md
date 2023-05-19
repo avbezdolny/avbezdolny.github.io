@@ -1,6 +1,6 @@
 # Anton Bezdolny
 
-![face](face.jpg)
+![portrait](portrait.jpg)
 
 `🤘 Hello World 🤘` [📧](mailto:networkoutpost@gmail.com)
 
