@@ -14,8 +14,8 @@ Mancala (Kalah, Bantumi) is an ancient family of board games :)
 
 ![Mancala](mancala.png)
 
-[![Android](android_button.png)](https://github.com/avbezdolny/avbezdolny.github.io/releases/download/release/Mancala.apk)
-[![Linux](linux_button.png)](https://github.com/avbezdolny/avbezdolny.github.io/releases/download/release/Mancala_X11_x86_64.tar.gz)
+[![Android](android_button.png)](https://github.com/avbezdolny/avbezdolny.github.io/releases/download/release/Mancala.apk) 
+[![Linux](linux_button.png)](https://github.com/avbezdolny/avbezdolny.github.io/releases/download/release/Mancala_X11_x86_64.tar.gz) 
 [![Windows](windows_button.png)](https://github.com/avbezdolny/avbezdolny.github.io/releases/download/release/Mancala_win_x64.zip)  
 
 ### MINES 🎮
@@ -26,8 +26,8 @@ Mines (minesweeper) - open all the cells on the field :)
 
 ![Mines](mines.png)
 
-[![Android](android_button.png)](https://github.com/avbezdolny/avbezdolny.github.io/releases/download/release/Mines.apk)
-[![Linux](linux_button.png)](https://github.com/avbezdolny/avbezdolny.github.io/releases/download/release/Mines_X11_x86_64.tar.gz)
+[![Android](android_button.png)](https://github.com/avbezdolny/avbezdolny.github.io/releases/download/release/Mines.apk) 
+[![Linux](linux_button.png)](https://github.com/avbezdolny/avbezdolny.github.io/releases/download/release/Mines_X11_x86_64.tar.gz) 
 [![Windows](windows_button.png)](https://github.com/avbezdolny/avbezdolny.github.io/releases/download/release/Mines_win_x64.zip)  
 
 ### TURTLE 🎮
@@ -38,8 +38,8 @@ Mahjong Solitaire is a board game for one person, similar in structure and gamep
 
 ![Turtle](turtle.png)
 
-[![Android](android_button.png)](https://github.com/avbezdolny/avbezdolny.github.io/releases/download/release/Turtle.apk)
-[![Linux](linux_button.png)](https://github.com/avbezdolny/avbezdolny.github.io/releases/download/release/Turtle_X11_x86_64.tar.gz)
+[![Android](android_button.png)](https://github.com/avbezdolny/avbezdolny.github.io/releases/download/release/Turtle.apk) 
+[![Linux](linux_button.png)](https://github.com/avbezdolny/avbezdolny.github.io/releases/download/release/Turtle_X11_x86_64.tar.gz) 
 [![Windows](windows_button.png)](https://github.com/avbezdolny/avbezdolny.github.io/releases/download/release/Turtle_win_x64.zip)  
 
 ### БУКВА 🎮
@@ -48,8 +48,8 @@ Mahjong Solitaire is a board game for one person, similar in structure and gamep
 
 ![БУКВА](bukva.png)
 
-[![Android](android_button.png)](https://github.com/avbezdolny/avbezdolny.github.io/releases/download/release/BUKVA.apk)
-[![Linux](linux_button.png)](https://github.com/avbezdolny/avbezdolny.github.io/releases/download/release/BUKVA_X11_x86_64.tar.gz)
+[![Android](android_button.png)](https://github.com/avbezdolny/avbezdolny.github.io/releases/download/release/BUKVA.apk) 
+[![Linux](linux_button.png)](https://github.com/avbezdolny/avbezdolny.github.io/releases/download/release/BUKVA_X11_x86_64.tar.gz) 
 [![Windows](windows_button.png)](https://github.com/avbezdolny/avbezdolny.github.io/releases/download/release/BUKVA_win_x64.zip)  
 
 ### GAME 2048 + 15 🎮
@@ -60,8 +60,8 @@ Game 2048 and puzzle 15.
 
 ![Game2048](game2048.png)
 
-[![Android](android_button.png)](https://github.com/avbezdolny/avbezdolny.github.io/releases/download/release/Game2048.apk)
-[![Linux](linux_button.png)](https://github.com/avbezdolny/avbezdolny.github.io/releases/download/release/Game2048_X11_x86_64.tar.gz)
+[![Android](android_button.png)](https://github.com/avbezdolny/avbezdolny.github.io/releases/download/release/Game2048.apk) 
+[![Linux](linux_button.png)](https://github.com/avbezdolny/avbezdolny.github.io/releases/download/release/Game2048_X11_x86_64.tar.gz) 
 [![Windows](windows_button.png)](https://github.com/avbezdolny/avbezdolny.github.io/releases/download/release/Game2048_win_x64.zip)  
 
 ### BILLIARD 🎮
@@ -72,8 +72,8 @@ A classic board game with balls for two players according to simplified rules.
 
 ![Billiard](billiard.png)
 
-[![Android](android_button.png)](https://github.com/avbezdolny/avbezdolny.github.io/releases/download/release/Billiard.apk)
-[![Linux](linux_button.png)](https://github.com/avbezdolny/avbezdolny.github.io/releases/download/release/Billiard_X11_x86_64.tar.gz)
+[![Android](android_button.png)](https://github.com/avbezdolny/avbezdolny.github.io/releases/download/release/Billiard.apk) 
+[![Linux](linux_button.png)](https://github.com/avbezdolny/avbezdolny.github.io/releases/download/release/Billiard_X11_x86_64.tar.gz) 
 [![Windows](windows_button.png)](https://github.com/avbezdolny/avbezdolny.github.io/releases/download/release/Billiard_win_x64.zip)  
 
 ### CUBE 🎮
@@ -84,6 +84,6 @@ When assembled, each side of the cube has its own color consisting of the color 
 
 ![Cube](cube.png)
 
-[![Android](android_button.png)](https://github.com/avbezdolny/avbezdolny.github.io/releases/download/release/Cube.apk)
-[![Linux](linux_button.png)](https://github.com/avbezdolny/avbezdolny.github.io/releases/download/release/Cube_X11_x86_64.tar.gz)
+[![Android](android_button.png)](https://github.com/avbezdolny/avbezdolny.github.io/releases/download/release/Cube.apk) 
+[![Linux](linux_button.png)](https://github.com/avbezdolny/avbezdolny.github.io/releases/download/release/Cube_X11_x86_64.tar.gz) 
 [![Windows](windows_button.png)](https://github.com/avbezdolny/avbezdolny.github.io/releases/download/release/Cube_win_x64.zip)  
