@@ -6,18 +6,29 @@
 
 ## Projects
 
-### KALEIDOSCOPE 🎮
+### MANCALA 🎮
 
-Collection of favorite games for intellectual entertainment (Solitaire, Mancala, Mines, Reversi)!
+Mancala (Kalah, Bantumi) is an ancient family of board games :)
 
-*Сборник любимых игр для интеллектуального развлечения (Пасьянс, Манкала, Сапер, Реверси)!*
+*Манкала (Калах, Бантуми) из древнего семейства настольных игр :)*
 
-![Kaleidoscope](kaleidoscope.png)
+![Mancala](mancala.png)
 
-[![Android](android_button.png)](https://github.com/avbezdolny/avbezdolny.github.io/releases/download/release/Kaleidoscope.apk)
-[![Linux](linux_button.png)](https://github.com/avbezdolny/avbezdolny.github.io/releases/download/release/Kaleidoscope_X11_x86_64.tar.gz)
-[![Windows](windows_button.png)](https://github.com/avbezdolny/avbezdolny.github.io/releases/download/release/Kaleidoscope_win_x64.zip)  
-[Privacy Policy](kaleidoscope_privacy_policy.md)
+[![Android](android_button.png)](https://github.com/avbezdolny/avbezdolny.github.io/releases/download/release/Mancala.apk)
+[![Linux](linux_button.png)](https://github.com/avbezdolny/avbezdolny.github.io/releases/download/release/Mancala_X11_x86_64.tar.gz)
+[![Windows](windows_button.png)](https://github.com/avbezdolny/avbezdolny.github.io/releases/download/release/Mancala_win_x64.zip)  
+
+### MINES 🎮
+
+Mines (minesweeper) - open all the cells on the field :)
+
+*Мины (сапер) - очистите игровое поле :)*
+
+![Mines](mines.png)
+
+[![Android](android_button.png)](https://github.com/avbezdolny/avbezdolny.github.io/releases/download/release/Mines.apk)
+[![Linux](linux_button.png)](https://github.com/avbezdolny/avbezdolny.github.io/releases/download/release/Mines_X11_x86_64.tar.gz)
+[![Windows](windows_button.png)](https://github.com/avbezdolny/avbezdolny.github.io/releases/download/release/Mines_win_x64.zip)  
 
 ### TURTLE 🎮
 
