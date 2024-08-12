@@ -14,6 +14,7 @@ A classic board game with balls for two players according to simplified rules.
 
 ![Billiard](billiard.png)
 
+Download:  
 [![Android](android_button.png)](https://github.com/avbezdolny/avbezdolny.github.io/releases/download/release/Billiard.apk) 
 [![Linux](linux_button.png)](https://github.com/avbezdolny/avbezdolny.github.io/releases/download/release/Billiard_X11_x86_64.tar.gz) 
 [![Windows](windows_button.png)](https://github.com/avbezdolny/avbezdolny.github.io/releases/download/release/Billiard_win_x64.zip)  
@@ -26,6 +27,7 @@ Mahjong Solitaire is a board game for one person, similar in structure and gamep
 
 ![Turtle](turtle.png)
 
+Download:  
 [![Android](android_button.png)](https://github.com/avbezdolny/avbezdolny.github.io/releases/download/release/Turtle.apk) 
 [![Linux](linux_button.png)](https://github.com/avbezdolny/avbezdolny.github.io/releases/download/release/Turtle_X11_x86_64.tar.gz) 
 [![Windows](windows_button.png)](https://github.com/avbezdolny/avbezdolny.github.io/releases/download/release/Turtle_win_x64.zip)  
@@ -36,6 +38,7 @@ Mahjong Solitaire is a board game for one person, similar in structure and gamep
 
 ![БУКВА](bukva.png)
 
+Download:  
 [![Android](android_button.png)](https://github.com/avbezdolny/avbezdolny.github.io/releases/download/release/BUKVA.apk) 
 [![Linux](linux_button.png)](https://github.com/avbezdolny/avbezdolny.github.io/releases/download/release/BUKVA_X11_x86_64.tar.gz) 
 [![Windows](windows_button.png)](https://github.com/avbezdolny/avbezdolny.github.io/releases/download/release/BUKVA_win_x64.zip)  
@@ -48,6 +51,7 @@ Game 2048 and puzzle 15.
 
 ![Game2048](game2048.png)
 
+Download:  
 [![Android](android_button.png)](https://github.com/avbezdolny/avbezdolny.github.io/releases/download/release/Game2048.apk) 
 [![Linux](linux_button.png)](https://github.com/avbezdolny/avbezdolny.github.io/releases/download/release/Game2048_X11_x86_64.tar.gz) 
 [![Windows](windows_button.png)](https://github.com/avbezdolny/avbezdolny.github.io/releases/download/release/Game2048_win_x64.zip)  
@@ -60,6 +64,7 @@ When assembled, each side of the cube has its own color consisting of the color 
 
 ![Cube](cube.png)
 
+Download:  
 [![Android](android_button.png)](https://github.com/avbezdolny/avbezdolny.github.io/releases/download/release/Cube.apk) 
 [![Linux](linux_button.png)](https://github.com/avbezdolny/avbezdolny.github.io/releases/download/release/Cube_X11_x86_64.tar.gz) 
 [![Windows](windows_button.png)](https://github.com/avbezdolny/avbezdolny.github.io/releases/download/release/Cube_win_x64.zip)  
@@ -70,22 +75,28 @@ When assembled, each side of the cube has its own color consisting of the color 
 
 *Pymines (сапер) - очистите игровое поле!*
 
-![Mines](mines.png)
+![Pymines](pymines.png)
 
+Download:  
 [![Android](android_button.png)](https://github.com/avbezdolny/avbezdolny.github.io/releases/download/release/Mines.apk) 
-[![Linux](linux_button.png)](https://github.com/avbezdolny/avbezdolny.github.io/releases/download/release/Mines_X11_x86_64.tar.gz) 
-[![Windows](windows_button.png)](https://github.com/avbezdolny/avbezdolny.github.io/releases/download/release/Mines_win_x64.zip)  
+[![Python](python_button.png)](https://github.com/avbezdolny/avbezdolny.github.io/releases/download/release/Mines_X11_x86_64.tar.gz) 
 
 ### PYNCALA 🎮
 
 *Pyncala (Манкала, Калах, Бантуми) из древнего семейства настольных игр :)*
 
-![Mancala](mancala.png)
+![Pyncala](pyncala.png)
 
+Download:  
 [![Android](android_button.png)](https://github.com/avbezdolny/avbezdolny.github.io/releases/download/release/Mancala.apk) 
-[![Linux](linux_button.png)](https://github.com/avbezdolny/avbezdolny.github.io/releases/download/release/Mancala_X11_x86_64.tar.gz) 
-[![Windows](windows_button.png)](https://github.com/avbezdolny/avbezdolny.github.io/releases/download/release/Mancala_win_x64.zip)  
+[![Python](python_button.png)](https://github.com/avbezdolny/avbezdolny.github.io/releases/download/release/Mancala_X11_x86_64.tar.gz) 
 
 ### XO 🎮
 
 *Крестики-нолики нового поколения!*
+
+![XO](xo.png)
+
+Download:  
+[![Android](android_button.png)](https://github.com/avbezdolny/avbezdolny.github.io/releases/download/release/xo.apk) 
+[![Python](python_button.png)](https://github.com/avbezdolny/avbezdolny.github.io/releases/download/release/XO_X11_x86_64.tar.gz) 
