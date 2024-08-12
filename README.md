@@ -4,31 +4,19 @@
 
 `🤘 Hello World 🤘` [📧](mailto:networkoutpost@gmail.com)
 
-## Projects
+## \# Godot
 
-### MANCALA 🎮
+### MINI-BILLIARD 🎮
 
-Mancala (Kalah, Bantumi) is an ancient family of board games :)
+A classic board game with balls for two players according to simplified rules.
 
-*Манкала (Калах, Бантуми) из древнего семейства настольных игр :)*
+*Классическая настольная игра с шарами для двух игроков по упрощенным правилам.*
 
-![Mancala](mancala.png)
+![Billiard](billiard.png)
 
-[![Android](android_button.png)](https://github.com/avbezdolny/avbezdolny.github.io/releases/download/release/Mancala.apk) 
-[![Linux](linux_button.png)](https://github.com/avbezdolny/avbezdolny.github.io/releases/download/release/Mancala_X11_x86_64.tar.gz) 
-[![Windows](windows_button.png)](https://github.com/avbezdolny/avbezdolny.github.io/releases/download/release/Mancala_win_x64.zip)  
-
-### MINES 🎮
-
-Mines (minesweeper) - open all the cells on the field :)
-
-*Мины (сапер) - очистите игровое поле :)*
-
-![Mines](mines.png)
-
-[![Android](android_button.png)](https://github.com/avbezdolny/avbezdolny.github.io/releases/download/release/Mines.apk) 
-[![Linux](linux_button.png)](https://github.com/avbezdolny/avbezdolny.github.io/releases/download/release/Mines_X11_x86_64.tar.gz) 
-[![Windows](windows_button.png)](https://github.com/avbezdolny/avbezdolny.github.io/releases/download/release/Mines_win_x64.zip)  
+[![Android](android_button.png)](https://github.com/avbezdolny/avbezdolny.github.io/releases/download/release/Billiard.apk) 
+[![Linux](linux_button.png)](https://github.com/avbezdolny/avbezdolny.github.io/releases/download/release/Billiard_X11_x86_64.tar.gz) 
+[![Windows](windows_button.png)](https://github.com/avbezdolny/avbezdolny.github.io/releases/download/release/Billiard_win_x64.zip)  
 
 ### TURTLE 🎮
 
@@ -64,18 +52,6 @@ Game 2048 and puzzle 15.
 [![Linux](linux_button.png)](https://github.com/avbezdolny/avbezdolny.github.io/releases/download/release/Game2048_X11_x86_64.tar.gz) 
 [![Windows](windows_button.png)](https://github.com/avbezdolny/avbezdolny.github.io/releases/download/release/Game2048_win_x64.zip)  
 
-### BILLIARD 🎮
-
-A classic board game with balls for two players according to simplified rules.
-
-*Классическая настольная игра с шарами для двух игроков по упрощенным правилам.*
-
-![Billiard](billiard.png)
-
-[![Android](android_button.png)](https://github.com/avbezdolny/avbezdolny.github.io/releases/download/release/Billiard.apk) 
-[![Linux](linux_button.png)](https://github.com/avbezdolny/avbezdolny.github.io/releases/download/release/Billiard_X11_x86_64.tar.gz) 
-[![Windows](windows_button.png)](https://github.com/avbezdolny/avbezdolny.github.io/releases/download/release/Billiard_win_x64.zip)  
-
 ### CUBE 🎮
 
 When assembled, each side of the cube has its own color consisting of the color of the sides of its elements. At the beginning of the game, the cube is shuffled and the goal is to return the cube to its assembled state by rotating the elements.
@@ -87,3 +63,29 @@ When assembled, each side of the cube has its own color consisting of the color 
 [![Android](android_button.png)](https://github.com/avbezdolny/avbezdolny.github.io/releases/download/release/Cube.apk) 
 [![Linux](linux_button.png)](https://github.com/avbezdolny/avbezdolny.github.io/releases/download/release/Cube_X11_x86_64.tar.gz) 
 [![Windows](windows_button.png)](https://github.com/avbezdolny/avbezdolny.github.io/releases/download/release/Cube_win_x64.zip)  
+
+## \# PyGame
+
+### PYMINES 🎮
+
+*Pymines (сапер) - очистите игровое поле!*
+
+![Mines](mines.png)
+
+[![Android](android_button.png)](https://github.com/avbezdolny/avbezdolny.github.io/releases/download/release/Mines.apk) 
+[![Linux](linux_button.png)](https://github.com/avbezdolny/avbezdolny.github.io/releases/download/release/Mines_X11_x86_64.tar.gz) 
+[![Windows](windows_button.png)](https://github.com/avbezdolny/avbezdolny.github.io/releases/download/release/Mines_win_x64.zip)  
+
+### PYNCALA 🎮
+
+*Pyncala (Манкала, Калах, Бантуми) из древнего семейства настольных игр :)*
+
+![Mancala](mancala.png)
+
+[![Android](android_button.png)](https://github.com/avbezdolny/avbezdolny.github.io/releases/download/release/Mancala.apk) 
+[![Linux](linux_button.png)](https://github.com/avbezdolny/avbezdolny.github.io/releases/download/release/Mancala_X11_x86_64.tar.gz) 
+[![Windows](windows_button.png)](https://github.com/avbezdolny/avbezdolny.github.io/releases/download/release/Mancala_win_x64.zip)  
+
+### XO 🎮
+
+*Крестики-нолики нового поколения!*
