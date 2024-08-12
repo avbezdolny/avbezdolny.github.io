@@ -1,8 +1,6 @@
-# Anton Bezdolny
+`🤘 Hello World 🤘` [📧](mailto:networkoutpost@gmail.com)
 
 ![portrait](portrait.png)
-
-`🤘 Hello World 🤘` [📧](mailto:networkoutpost@gmail.com)
 
 ## \# Godot
 
