@@ -1,4 +1,4 @@
-![portrait](portrait.png)
+![portrait](portrait.jpg)
 
 `🤘 Hello World 🤘` [📧](mailto:networkoutpost@gmail.com)
 
