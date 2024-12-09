@@ -76,7 +76,7 @@ Download:
 ![Pymines](pymines.png)
 
 Download:  
-[![Android](android_button.png)](https://github.com/avbezdolny/avbezdolny.github.io/releases/download/release/pymines-1.0-arm64-v8a.apk) 
+[![Android](android_button.png)](https://github.com/avbezdolny/avbezdolny.github.io/releases/download/release/pymines-1.1-arm64-v8a.apk) 
 [![Python](python_button.png)](https://github.com/avbezdolny/avbezdolny.github.io/releases/download/release/Pymines.zip) 
 
 ### PYNCALA 🎮
@@ -86,7 +86,7 @@ Download:
 ![Pyncala](pyncala.png)
 
 Download:  
-[![Android](android_button.png)](https://github.com/avbezdolny/avbezdolny.github.io/releases/download/release/pyncala-1.0-arm64-v8a.apk) 
+[![Android](android_button.png)](https://github.com/avbezdolny/avbezdolny.github.io/releases/download/release/pyncala-1.1-arm64-v8a.apk) 
 [![Python](python_button.png)](https://github.com/avbezdolny/avbezdolny.github.io/releases/download/release/Pyncala.zip) 
 
 ### XO 🎮
