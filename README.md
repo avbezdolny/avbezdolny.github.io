@@ -2,7 +2,8 @@
 
 `🤘 Hello World 🤘` [📧](mailto:networkoutpost@gmail.com)
 
-*Актуальные версии также доступны в RuStore >>*[![RuStore](rustore.png)](https://www.rustore.ru/catalog/developer/02481566)
+*Доступно:*
+[![RuStore](rustore.png)](https://www.rustore.ru/catalog/developer/02481566)
 
 ## \# Godot
 
