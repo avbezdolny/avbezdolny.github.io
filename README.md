@@ -2,7 +2,7 @@
 
 `🤘 Hello World 🤘` [📧](mailto:networkoutpost@gmail.com)
 
-*Доступно:*  
+*Опубликовано:*  
 [![RuStore](rustore.png)](https://www.rustore.ru/catalog/developer/02481566)
 
 ## \# Godot
