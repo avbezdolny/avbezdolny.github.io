@@ -2,9 +2,6 @@
 
 `🤘 Hello World 🤘` [📧](mailto:networkoutpost@gmail.com)
 
-Опубликовано :)  
-[![RuStore](rustore.png)](https://www.rustore.ru/catalog/developer/02481566)
-
 ## \# Godot
 
 ### MINI-BILLIARD 🎮
@@ -16,9 +13,8 @@ A classic board game with balls for two players according to simplified rules.
 ![Billiard](billiard.png)
 
 Download:  
-[![Android](android_button.png)](https://github.com/avbezdolny/avbezdolny.github.io/releases/download/release/Billiard.apk) 
-[![Linux](linux_button.png)](https://github.com/avbezdolny/avbezdolny.github.io/releases/download/release/Billiard_X11_x86_64.tar.gz) 
-[![Windows](windows_button.png)](https://github.com/avbezdolny/avbezdolny.github.io/releases/download/release/Billiard_win_x64.zip)  
+[![Android](android_button.png)](https://github.com/avbezdolny/avbezdolny.github.io/releases/download/archive/Billiard.apk) 
+[![RuStore](rustore_button.png)](https://www.rustore.ru/catalog/app/avbezdolny.software.billiard) 
 
 ### TURTLE 🎮
 
@@ -29,46 +25,20 @@ Mahjong Solitaire is a board game for one person, similar in structure and gamep
 ![Turtle](turtle.png)
 
 Download:  
-[![Android](android_button.png)](https://github.com/avbezdolny/avbezdolny.github.io/releases/download/release/Turtle.apk) 
-[![Linux](linux_button.png)](https://github.com/avbezdolny/avbezdolny.github.io/releases/download/release/Turtle_X11_x86_64.tar.gz) 
-[![Windows](windows_button.png)](https://github.com/avbezdolny/avbezdolny.github.io/releases/download/release/Turtle_win_x64.zip)  
+[![Android](android_button.png)](https://github.com/avbezdolny/avbezdolny.github.io/releases/download/archive/Turtle.apk) 
+[![RuStore](rustore_button.png)](https://www.rustore.ru/catalog/app/avbezdolny.software.turtle) 
 
-### БУКВА 🎮
+### TETRA-TOWER 🎮
 
-*Лингвистическая настольная игра для двух игроков (Балда) и одиночный режим головоломка-загадка (Wordle).*
+Build the tallest tower out of tetramino figures or play in the classic line-building mode!
 
-![БУКВА](bukva.png)
+*Постройте самую высокую башню из фигурок тетрамино или играйте в классическом режиме построения линий!*
 
-Download:  
-[![Android](android_button.png)](https://github.com/avbezdolny/avbezdolny.github.io/releases/download/release/BUKVA.apk) 
-[![Linux](linux_button.png)](https://github.com/avbezdolny/avbezdolny.github.io/releases/download/release/BUKVA_X11_x86_64.tar.gz) 
-[![Windows](windows_button.png)](https://github.com/avbezdolny/avbezdolny.github.io/releases/download/release/BUKVA_win_x64.zip)  
-
-### GAME 2048 + 15 🎮
-
-Game 2048 and puzzle 15.
-
-*Игра 2048 и головоломка 15 (пятнашки).*
-
-![Game2048](game2048.png)
+![Tetra-Tower](tetratower.png)
 
 Download:  
-[![Android](android_button.png)](https://github.com/avbezdolny/avbezdolny.github.io/releases/download/release/Game2048.apk) 
-[![Linux](linux_button.png)](https://github.com/avbezdolny/avbezdolny.github.io/releases/download/release/Game2048_X11_x86_64.tar.gz) 
-[![Windows](windows_button.png)](https://github.com/avbezdolny/avbezdolny.github.io/releases/download/release/Game2048_win_x64.zip)  
-
-### CUBE 🎮
-
-When assembled, each side of the cube has its own color consisting of the color of the sides of its elements. At the beginning of the game, the cube is shuffled and the goal is to return the cube to its assembled state by rotating the elements.
-
-*В собранном состоянии каждая сторона куба имеет свой цвет состоящий из цвета сторон его элементов. В начале игры куб перемешивается и цель в том, чтобы вращая элементы вернуть куб в собранное состояние.*
-
-![Cube](cube.png)
-
-Download:  
-[![Android](android_button.png)](https://github.com/avbezdolny/avbezdolny.github.io/releases/download/release/Cube.apk) 
-[![Linux](linux_button.png)](https://github.com/avbezdolny/avbezdolny.github.io/releases/download/release/Cube_X11_x86_64.tar.gz) 
-[![Windows](windows_button.png)](https://github.com/avbezdolny/avbezdolny.github.io/releases/download/release/Cube_win_x64.zip)  
+[![Android](android_button.png)](https://github.com/avbezdolny/avbezdolny.github.io/releases/download/archive/Tetra-Tower.apk) 
+[![RuStore](rustore_button.png)](https://www.rustore.ru/catalog/app/avbezdolny.software.tetratower) 
 
 ## \# PyGame
 
@@ -79,8 +49,9 @@ Download:
 ![Pymines](pymines.png)
 
 Download:  
-[![Android](android_button.png)](https://github.com/avbezdolny/avbezdolny.github.io/releases/download/release/pymines-1.1-arm64-v8a.apk) 
-[![Python](python_button.png)](https://github.com/avbezdolny/avbezdolny.github.io/releases/download/release/Pymines.zip) 
+[![Android](android_button.png)](https://github.com/avbezdolny/avbezdolny.github.io/releases/download/archive/pymines-1.2-arm64-v8a.apk) 
+[![RuStore](rustore_button.png)](https://www.rustore.ru/catalog/app/avbezdolny.software.pymines) 
+[![Python](python_button.png)](https://github.com/avbezdolny/avbezdolny.github.io/releases/download/archive/Pymines.zip) 
 
 ### PYNCALA 🎮
 
@@ -89,8 +60,9 @@ Download:
 ![Pyncala](pyncala.png)
 
 Download:  
-[![Android](android_button.png)](https://github.com/avbezdolny/avbezdolny.github.io/releases/download/release/pyncala-1.1-arm64-v8a.apk) 
-[![Python](python_button.png)](https://github.com/avbezdolny/avbezdolny.github.io/releases/download/release/Pyncala.zip) 
+[![Android](android_button.png)](https://github.com/avbezdolny/avbezdolny.github.io/releases/download/archive/pyncala-1.2-arm64-v8a.apk) 
+[![RuStore](rustore_button.png)](https://www.rustore.ru/catalog/app/avbezdolny.software.pyncala) 
+[![Python](python_button.png)](https://github.com/avbezdolny/avbezdolny.github.io/releases/download/archive/Pyncala.zip) 
 
 ### XO 🎮
 
@@ -99,5 +71,30 @@ Download:
 ![XO](xo.png)
 
 Download:  
-[![Android](android_button.png)](https://github.com/avbezdolny/avbezdolny.github.io/releases/download/release/xo.apk) 
-[![Python](python_button.png)](https://github.com/avbezdolny/avbezdolny.github.io/releases/download/release/xo.zip) 
+[![Android](android_button.png)](https://github.com/avbezdolny/avbezdolny.github.io/releases/download/archive/xo-1.2-arm64-v8a.apk) 
+[![RuStore](rustore_button.png)](https://www.rustore.ru/catalog/app/avbezdolny.software.xo) 
+[![Python](python_button.png)](https://github.com/avbezdolny/avbezdolny.github.io/releases/download/archive/XO.zip) 
+
+## \# Archive
+
+### GAME 2048 + 15 🎮
+
+Game 2048 and puzzle 15.
+
+*Игра 2048 и головоломка 15 (пятнашки).*
+
+![Game2048](game2048.png)
+
+Download:  
+[![Android](android_button.png)](https://github.com/avbezdolny/avbezdolny.github.io/releases/download/archive/Game2048.apk) 
+[![RuStore](rustore_button.png)](https://www.rustore.ru/catalog/app/avbezdolny.software.game2048) 
+
+### БУКВА 🎮
+
+*Лингвистическая настольная игра для двух игроков (Балда) и одиночный режим головоломка-загадка (Wordle).*
+
+![БУКВА](bukva.png)
+
+Download:  
+[![Android](android_button.png)](https://github.com/avbezdolny/avbezdolny.github.io/releases/download/archive/BUKVA.apk) 
+[![RuStore](rustore_button.png)](https://www.rustore.ru/catalog/app/avbezdolny.software.bukva) 
