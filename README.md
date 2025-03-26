@@ -4,7 +4,7 @@
 
 ## \# Godot 🎮
 
-### BILLIARD 🎱
+### BILLIARD (БИЛЬЯРД) 🎱
 
 A classic board game with balls for two players according to simplified rules.
 
@@ -16,7 +16,7 @@ Download:
 [![Android](android_button.png)](https://github.com/avbezdolny/avbezdolny.github.io/releases/download/archive/Billiard.apk) 
 [![RuStore](rustore_button.png)](https://www.rustore.ru/catalog/app/avbezdolny.software.billiard) 
 
-### MAHJONG TURTLE 🀄
+### MAHJONG TURTLE (МАДЖОНГ ЧЕРЕПАХА) 🀄
 
 Mahjong Solitaire is a board game for one person, similar in structure and gameplay to card solitaire, played with a set of chips of the Asian gambling game mahjong.
 
@@ -30,7 +30,7 @@ Download:
 
 ## \# PyGame 🐍
 
-### PYMINES 💣
+### PYMINES (МИНЫ) 💣
 
 *Pymines (сапер) - очистите игровое поле!*
 
@@ -38,17 +38,20 @@ Download:
 
 Download:  
 [![Android](android_button.png)](https://github.com/avbezdolny/avbezdolny.github.io/releases/download/archive/pymines-1.2-arm64-v8a.apk) 
-[![RuStore](rustore_button.png)](https://www.rustore.ru/catalog/app/avbezdolny.software.pymines) 
+[![Python](python_button.png)](https://github.com/avbezdolny/avbezdolny.github.io/releases/download/archive/pymines.zip) 
 
-### PYNCALA 🌱
+### PYNCALA (МАНКАЛА) 🌱
 
-*Pyncala (Манкала, Калах, Бантуми) из древнего семейства настольных игр :)*
+*Pyncala (Манкала, Калах, Бантуми) из древнего семейства настольных игр.*
 
 ![Pyncala](pyncala.png)
 
 Download:  
 [![Android](android_button.png)](https://github.com/avbezdolny/avbezdolny.github.io/releases/download/archive/pyncala-1.2-arm64-v8a.apk) 
-[![RuStore](rustore_button.png)](https://www.rustore.ru/catalog/app/avbezdolny.software.pyncala) 
+[![Python](python_button.png)](https://github.com/avbezdolny/avbezdolny.github.io/releases/download/archive/pyncala.zip) 
 
-## \# PyNeewsReader_bot 🤖
-...
+## \# PyNewsReader_bot 🤖
+
+*Простой новостной бот!*
+
+![bot](bot.png)
