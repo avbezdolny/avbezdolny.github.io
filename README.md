@@ -50,6 +50,14 @@ Download:
 [![Android](android_button.png)](https://github.com/avbezdolny/avbezdolny.github.io/releases/download/archive/pyncala-1.2-arm64-v8a.apk) 
 [![Python](python_button.png)](https://github.com/avbezdolny/avbezdolny.github.io/releases/download/archive/pyncala.zip) 
 
+### TIC-TAC-TOE ❌⭕
+
+*Крестики-нолики нового поколения!*
+
+### PYTETRIS 🥃
+
+*Игра с блоками тетрамино.*
+
 ## \# PyNewsReader_bot 🤖
 
 *Простой новостной бот!*
