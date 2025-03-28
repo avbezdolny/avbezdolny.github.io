@@ -61,12 +61,6 @@ Download:
 Download:  
 [![RuStore](rustore_button.png)](https://www.rustore.ru/catalog/app/avbezdolny.software.xo) 
 
-### PYTETRIS 🥃
-
-*Игра с блоками тетрамино.*
-
-![pyTETRIS](pytetris.png)
-
 ## \# PyNewsReader_bot 🤖
 
 *Простой новостной бот!*
