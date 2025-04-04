@@ -28,30 +28,6 @@ Download:
 [![Android](android_button.png)](https://github.com/avbezdolny/avbezdolny.github.io/releases/download/archive/Turtle.apk) 
 [![RuStore](rustore_button.png)](https://www.rustore.ru/catalog/app/avbezdolny.software.turtle) 
 
-### TETRA-TOWER (ТЕТРА-БАШНЯ) 🗼
-
-Build the tallest tower out of tetramino figures or play in the classic line-building mode!
-
-*Постройте самую высокую башню из фигурок тетрамино или играйте в классическом режиме построения линий!*
-
-![Tetra-Tower](tetratower.png)
-
-Download:  
-[![Android](android_button.png)](https://github.com/avbezdolny/avbezdolny.github.io/releases/download/archive/Tetra-Tower.apk) 
-[![RuStore](rustore_button.png)](https://www.rustore.ru/catalog/app/avbezdolny.software.tetratower) 
-
-### GAME 2️⃣0️⃣4️⃣8️⃣
-
-Classic number matching game + tag puzzle!
-
-*Классическая игра с объединением чисел + головоломка пятнашки!*
-
-![Game2048](game2048.png)
-
-Download:  
-[![Android](android_button.png)](https://github.com/avbezdolny/avbezdolny.github.io/releases/download/archive/Game2048.apk) 
-[![RuStore](rustore_button.png)](https://www.rustore.ru/catalog/app/avbezdolny.software.game2048) 
-
 ## \# PyGame 🐍
 
 ### PYMINES (МИНЫ) 💣
