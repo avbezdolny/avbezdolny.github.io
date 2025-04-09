@@ -59,7 +59,7 @@ Download:
 ![XO](xo.png)
 
 Download:  
-[![Android](android_button.png)](https://github.com/avbezdolny/avbezdolny.github.io/releases/download/archive/xo-1.5-arm64-v8a.apk) 
+[![Android](android_button.png)](https://github.com/avbezdolny/avbezdolny.github.io/releases/download/archive/xo-2.0-arm64-v8a.apk) 
 [![Python](python_button.png)](https://github.com/avbezdolny/avbezdolny.github.io/releases/download/archive/xo.zip) 
 [![RuStore](rustore_button.png)](https://www.rustore.ru/catalog/app/avbezdolny.software.xo) 
 
