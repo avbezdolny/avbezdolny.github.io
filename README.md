@@ -28,6 +28,28 @@ Download:
 [![Android](android_button.png)](https://github.com/avbezdolny/avbezdolny.github.io/releases/download/archive/Turtle.apk) 
 [![RuStore](rustore_button.png)](https://www.rustore.ru/catalog/app/avbezdolny.software.turtle) 
 
+### GAME 2️⃣0️⃣4️⃣8️⃣
+
+Classic puzzle 2048 + 15 (tag)!
+
+*Классическая головоломка 2048 + 15 (пятнашки)!*
+
+![2048](2048.png)
+
+Download:  
+[![Android](android_button.png)](https://github.com/avbezdolny/avbezdolny.github.io/releases/download/archive/Game2048.apk) 
+[![RuStore](rustore_button.png)](https://www.rustore.ru/catalog/app/avbezdolny.software.game2048) 
+
+### БУКВА
+
+*Лингвистическая настольная игра!*
+
+![Буква](letter.png)
+
+Download:  
+[![Android](android_button.png)](https://github.com/avbezdolny/avbezdolny.github.io/releases/download/archive/Letter.apk) 
+[![RuStore](rustore_button.png)](https://www.rustore.ru/catalog/app/avbezdolny.software.bukva) 
+
 ## \# PyGame 🐍
 
 ### PYMINES (МИНЫ) 💣
