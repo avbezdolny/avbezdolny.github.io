@@ -40,7 +40,7 @@ Download:
 [![Android](android_button.png)](https://github.com/avbezdolny/avbezdolny.github.io/releases/download/archive/Game2048.apk) 
 [![RuStore](rustore_button.png)](https://www.rustore.ru/catalog/app/avbezdolny.software.game2048) 
 
-### БУКВА
+### БУКВА 🧩
 
 *Лингвистическая настольная игра!*
 
