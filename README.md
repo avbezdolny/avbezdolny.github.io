@@ -14,7 +14,6 @@ A classic board game with balls for two players according to simplified rules.
 
 Download:  
 [![Android](android_button.png)](https://github.com/avbezdolny/avbezdolny.github.io/releases/download/archive/Billiard.apk) 
-[![RuStore](rustore_button.png)](https://www.rustore.ru/catalog/app/avbezdolny.software.billiard) 
 
 ### MAHJONG TURTLE (МАДЖОНГ ЧЕРЕПАХА) 🀄
 
@@ -26,7 +25,6 @@ Mahjong Solitaire is a board game for one person, similar in structure and gamep
 
 Download:  
 [![Android](android_button.png)](https://github.com/avbezdolny/avbezdolny.github.io/releases/download/archive/Turtle.apk) 
-[![RuStore](rustore_button.png)](https://www.rustore.ru/catalog/app/avbezdolny.software.turtle) 
 
 ### GAME 2️⃣0️⃣4️⃣8️⃣
 
@@ -38,7 +36,6 @@ Classic puzzle 2048 + 15 (tag)!
 
 Download:  
 [![Android](android_button.png)](https://github.com/avbezdolny/avbezdolny.github.io/releases/download/archive/Game2048.apk) 
-[![RuStore](rustore_button.png)](https://www.rustore.ru/catalog/app/avbezdolny.software.game2048) 
 
 ### БУКВА 🧩
 
@@ -48,7 +45,6 @@ Download:
 
 Download:  
 [![Android](android_button.png)](https://github.com/avbezdolny/avbezdolny.github.io/releases/download/archive/Letter.apk) 
-[![RuStore](rustore_button.png)](https://www.rustore.ru/catalog/app/avbezdolny.software.bukva) 
 
 ## \# PyGame 🐍
 
@@ -61,7 +57,6 @@ Download:
 Download:  
 [![Android](android_button.png)](https://github.com/avbezdolny/avbezdolny.github.io/releases/download/archive/pymines-1.2-arm64-v8a.apk) 
 [![Python](python_button.png)](https://github.com/avbezdolny/avbezdolny.github.io/releases/download/archive/pymines.zip) 
-[![RuStore](rustore_button.png)](https://www.rustore.ru/catalog/app/avbezdolny.software.pymines) 
 
 ### PYNCALA (МАНКАЛА) 🌱
 
@@ -72,7 +67,6 @@ Download:
 Download:  
 [![Android](android_button.png)](https://github.com/avbezdolny/avbezdolny.github.io/releases/download/archive/pyncala-1.2-arm64-v8a.apk) 
 [![Python](python_button.png)](https://github.com/avbezdolny/avbezdolny.github.io/releases/download/archive/pyncala.zip) 
-[![RuStore](rustore_button.png)](https://www.rustore.ru/catalog/app/avbezdolny.software.pyncala) 
 
 ### TIC-TAC-TOE ❌⭕
 
@@ -83,7 +77,6 @@ Download:
 Download:  
 [![Android](android_button.png)](https://github.com/avbezdolny/avbezdolny.github.io/releases/download/archive/xo-2.0-arm64-v8a.apk) 
 [![Python](python_button.png)](https://github.com/avbezdolny/avbezdolny.github.io/releases/download/archive/xo.zip) 
-[![RuStore](rustore_button.png)](https://www.rustore.ru/catalog/app/avbezdolny.software.xo) 
 
 ### ZENCHESS ☯♟
 
@@ -94,7 +87,6 @@ Chess forever with love!
 Download:  
 [![Android](android_button.png)](https://github.com/avbezdolny/avbezdolny.github.io/releases/download/archive/zenchess-1.0-arm64-v8a.apk) 
 [![Python](python_button.png)](https://github.com/avbezdolny/avbezdolny.github.io/releases/download/archive/ZenChess.zip) 
-[![RuStore](rustore_button.png)](https://www.rustore.ru/catalog/app/avbezdolny.software.zenchess) 
 
 ## \# PyNewsReader_bot 🤖
 
