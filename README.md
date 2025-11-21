@@ -87,9 +87,3 @@ Chess forever with love!
 Download:  
 [![Android](android_button.png)](https://github.com/avbezdolny/avbezdolny.github.io/releases/download/archive/zenchess-1.0-arm64-v8a.apk) 
 [![Python](python_button.png)](https://github.com/avbezdolny/avbezdolny.github.io/releases/download/archive/ZenChess.zip) 
-
-## \# PyNewsReader_bot 🤖
-
-*Простой новостной бот!*
-
-![bot](bot.png)
