@@ -1,6 +1,9 @@
 ![portrait](portrait.jpg)
 
-`🤘 Hello World 🤘` [📧](mailto:networkoutpost@gmail.com)
+`🤘 Hello World 🤘`
+
+*Приложения также доступны в [RuStore](https://www.rustore.ru/catalog/developer/02481566), приятной игры ❤*  
+*Если хотите оказать поддержку или поделиться идеями и замечаниями, напишите мне [📧](mailto:networkoutpost@gmail.com)*
 
 ## \# Godot 🎮
 
