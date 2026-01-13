@@ -58,7 +58,7 @@ Download:
 ![Pymines](pymines.png)
 
 Download:  
-[![Android](android_button.png)](https://github.com/avbezdolny/avbezdolny.github.io/releases/download/archive/pymines-1.2-arm64-v8a.apk) 
+[![Android](android_button.png)](https://github.com/avbezdolny/avbezdolny.github.io/releases/download/archive/pymines.apk) 
 [![Python](python_button.png)](https://github.com/avbezdolny/avbezdolny.github.io/releases/download/archive/pymines.zip) 
 
 ### PYNCALA (МАНКАЛА) 🌱
@@ -68,7 +68,7 @@ Download:
 ![Pyncala](pyncala.png)
 
 Download:  
-[![Android](android_button.png)](https://github.com/avbezdolny/avbezdolny.github.io/releases/download/archive/pyncala-1.2-arm64-v8a.apk) 
+[![Android](android_button.png)](https://github.com/avbezdolny/avbezdolny.github.io/releases/download/archive/pyncala.apk) 
 [![Python](python_button.png)](https://github.com/avbezdolny/avbezdolny.github.io/releases/download/archive/pyncala.zip) 
 
 ### TIC-TAC-TOE ❌⭕
@@ -78,7 +78,7 @@ Download:
 ![XO](xo.png)
 
 Download:  
-[![Android](android_button.png)](https://github.com/avbezdolny/avbezdolny.github.io/releases/download/archive/xo-2.0-arm64-v8a.apk) 
+[![Android](android_button.png)](https://github.com/avbezdolny/avbezdolny.github.io/releases/download/archive/xo.apk) 
 [![Python](python_button.png)](https://github.com/avbezdolny/avbezdolny.github.io/releases/download/archive/xo.zip) 
 
 ### ZENCHESS ☯♟
@@ -88,5 +88,5 @@ Chess forever with love!
 ![ZenChess](zenchess.png)
 
 Download:  
-[![Android](android_button.png)](https://github.com/avbezdolny/avbezdolny.github.io/releases/download/archive/zenchess-1.0-arm64-v8a.apk) 
+[![Android](android_button.png)](https://github.com/avbezdolny/avbezdolny.github.io/releases/download/archive/zenchess.apk) 
 [![Python](python_button.png)](https://github.com/avbezdolny/avbezdolny.github.io/releases/download/archive/ZenChess.zip) 
