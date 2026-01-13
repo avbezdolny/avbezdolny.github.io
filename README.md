@@ -83,7 +83,7 @@ Download:
 
 ### ZENCHESS ☯♟
 
-Chess forever with love!
+Шахматы навсегда с любовью ❤!
 
 ![ZenChess](zenchess.png)
 
