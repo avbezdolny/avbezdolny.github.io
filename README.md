@@ -5,6 +5,20 @@
 *Приложения также доступны в [RuStore](https://www.rustore.ru/catalog/developer/02481566), приятной игры ❤*  
 *Если хотите оказать поддержку или поделиться идеями и замечаниями, напишите мне [📧](mailto:networkoutpost@gmail.com)*
 
+## \# Love2D ❤🌓
+
+### TIC-TAC-TOE ❌⭕
+
+Tic-tac-toe of the new generation!
+
+*Крестики-нолики нового поколения!*
+
+![XO](lxo.png)
+
+Download:  
+[![Android](android_button.png)](https://github.com/avbezdolny/avbezdolny.github.io/releases/download/archive/Lxo.apk) 
+[![Github](github_button.png)](https://github.com/avbezdolny/Lxo) 
+
 ## \# Godot 🎮
 
 ### BILLIARD (БИЛЬЯРД) 🎱
@@ -70,16 +84,6 @@ Download:
 Download:  
 [![Android](android_button.png)](https://github.com/avbezdolny/avbezdolny.github.io/releases/download/archive/pyncala.apk) 
 [![Python](python_button.png)](https://github.com/avbezdolny/avbezdolny.github.io/releases/download/archive/Pyncala.zip) 
-
-### TIC-TAC-TOE ❌⭕
-
-*Крестики-нолики нового поколения!*
-
-![XO](xo.png)
-
-Download:  
-[![Android](android_button.png)](https://github.com/avbezdolny/avbezdolny.github.io/releases/download/archive/xo.apk) 
-[![Python](python_button.png)](https://github.com/avbezdolny/avbezdolny.github.io/releases/download/archive/XO.zip) 
 
 ### ZENCHESS ☯♟
 
