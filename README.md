@@ -19,6 +19,18 @@ Download:
 [![Android](android_button.png)](https://github.com/avbezdolny/avbezdolny.github.io/releases/download/archive/Lxo.apk) 
 [![Github](github_button.png)](https://github.com/avbezdolny/Lxo) 
 
+### MINES (МИНЫ) 💣
+
+Find all the mines on the playing field using the number hints!
+
+*Найди все мины на игровом поле, используя числовые подсказки!*
+
+![Mines](lmines.png)
+
+Download:  
+[![Android](android_button.png)](https://github.com/avbezdolny/avbezdolny.github.io/releases/download/archive/Lmines.apk) 
+[![Github](github_button.png)](https://github.com/avbezdolny/Lmines) 
+
 ## \# Godot 🎮
 
 ### BILLIARD (БИЛЬЯРД) 🎱
@@ -64,16 +76,6 @@ Download:
 [![Android](android_button.png)](https://github.com/avbezdolny/avbezdolny.github.io/releases/download/archive/Letter.apk) 
 
 ## \# PyGame 🐍
-
-### PYMINES (МИНЫ) 💣
-
-*Pymines (сапер) - очистите игровое поле!*
-
-![Pymines](pymines.png)
-
-Download:  
-[![Android](android_button.png)](https://github.com/avbezdolny/avbezdolny.github.io/releases/download/archive/pymines.apk) 
-[![Python](python_button.png)](https://github.com/avbezdolny/avbezdolny.github.io/releases/download/archive/Pymines.zip) 
 
 ### PYNCALA (МАНКАЛА) 🌱
 
