@@ -31,6 +31,18 @@ Download:
 [![Android](android_button.png)](https://github.com/avbezdolny/avbezdolny.github.io/releases/download/archive/Lmines.apk) 
 [![Github](github_button.png)](https://github.com/avbezdolny/Lmines) 
 
+### MANCALA (МАНКАЛА) 🌱
+
+Two-row Manсala, also known as Kalah (Bantumi), is an ancient family of board games from Africa and Asia!
+
+*Двухрядная Манкала, также известная как Калах (Бантуми), из древнего семейства настольных игр Африки и Азии!*
+
+![Mancala](lmancala.png)
+
+Download:  
+[![Android](android_button.png)](https://github.com/avbezdolny/avbezdolny.github.io/releases/download/archive/Lmancala.apk) 
+[![Github](github_button.png)](https://github.com/avbezdolny/Lmancala) 
+
 ## \# Godot 🎮
 
 ### BILLIARD (БИЛЬЯРД) 🎱
@@ -76,16 +88,6 @@ Download:
 [![Android](android_button.png)](https://github.com/avbezdolny/avbezdolny.github.io/releases/download/archive/Letter.apk) 
 
 ## \# PyGame 🐍
-
-### PYNCALA (МАНКАЛА) 🌱
-
-*Pyncala (Манкала, Калах, Бантуми) из древнего семейства настольных игр.*
-
-![Pyncala](pyncala.png)
-
-Download:  
-[![Android](android_button.png)](https://github.com/avbezdolny/avbezdolny.github.io/releases/download/archive/pyncala.apk) 
-[![Python](python_button.png)](https://github.com/avbezdolny/avbezdolny.github.io/releases/download/archive/Pyncala.zip) 
 
 ### ZENCHESS ☯♟
 
