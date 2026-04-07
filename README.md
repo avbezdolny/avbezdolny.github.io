@@ -7,7 +7,7 @@
 
 ## \# Love2D ❤🌓
 
-### TIC-TAC-TOE ❌⭕
+### TIC-TAC-TOE (КРЕСТИКИ-НОЛИКИ) ❌⭕
 
 Tic-tac-toe of the new generation!
 
@@ -42,6 +42,19 @@ Two-row Manсala, also known as Kalah (Bantumi), is an ancient family of board g
 Download:  
 [![Android](android_button.png)](https://github.com/avbezdolny/avbezdolny.github.io/releases/download/archive/Lmancala.apk) 
 [![Github](github_button.png)](https://github.com/avbezdolny/Lmancala) 
+
+### CHESS (ШАХМАТЫ) ♟
+
+Chess for all! Offline game with bot, with friend and puzzles!
+
+*Шахматы для всех! Офлайн игра с ботом, с другом и задачки!*
+
+![Chess](lchess.png)
+
+Download:  
+[![Android](android_button.png)](https://github.com/avbezdolny/avbezdolny.github.io/releases/download/archive/Lchess.apk) 
+[![Github](github_button.png)](https://github.com/avbezdolny/Lchess) 
+
 
 ## \# Godot 🎮
 
@@ -86,15 +99,3 @@ Download:
 
 Download:  
 [![Android](android_button.png)](https://github.com/avbezdolny/avbezdolny.github.io/releases/download/archive/Letter.apk) 
-
-## \# PyGame 🐍
-
-### ZENCHESS ☯♟
-
-Шахматы навсегда с любовью ❤!
-
-![ZenChess](zenchess.png)
-
-Download:  
-[![Android](android_button.png)](https://github.com/avbezdolny/avbezdolny.github.io/releases/download/archive/zenchess.apk) 
-[![Python](python_button.png)](https://github.com/avbezdolny/avbezdolny.github.io/releases/download/archive/ZenChess.zip) 
