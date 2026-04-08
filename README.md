@@ -17,6 +17,7 @@ Tic-tac-toe of the new generation!
 
 Download:  
 [![Android](android_button.png)](https://github.com/avbezdolny/avbezdolny.github.io/releases/download/archive/Lxo.apk) 
+[![Windows](windows_button.png)](https://github.com/avbezdolny/avbezdolny.github.io/releases/download/archive/Lxo_win_x64.zip) 
 [![Github](github_button.png)](https://github.com/avbezdolny/Lxo) 
 
 ### MINES (МИНЫ) 💣
@@ -29,6 +30,7 @@ Find all the mines on the playing field using the number hints!
 
 Download:  
 [![Android](android_button.png)](https://github.com/avbezdolny/avbezdolny.github.io/releases/download/archive/Lmines.apk) 
+[![Windows](windows_button.png)](https://github.com/avbezdolny/avbezdolny.github.io/releases/download/archive/Lmines_win_x64.zip) 
 [![Github](github_button.png)](https://github.com/avbezdolny/Lmines) 
 
 ### MANCALA (МАНКАЛА) 🌱
@@ -41,6 +43,7 @@ Two-row Manсala, also known as Kalah (Bantumi), is an ancient family of board g
 
 Download:  
 [![Android](android_button.png)](https://github.com/avbezdolny/avbezdolny.github.io/releases/download/archive/Lmancala.apk) 
+[![Windows](windows_button.png)](https://github.com/avbezdolny/avbezdolny.github.io/releases/download/archive/Lmancala_win_x64.zip) 
 [![Github](github_button.png)](https://github.com/avbezdolny/Lmancala) 
 
 ### CHESS (ШАХМАТЫ) ♟
@@ -53,8 +56,8 @@ Chess for all! Offline game with bot, with friend and puzzles!
 
 Download:  
 [![Android](android_button.png)](https://github.com/avbezdolny/avbezdolny.github.io/releases/download/archive/Lchess.apk) 
+[![Windows](windows_button.png)](https://github.com/avbezdolny/avbezdolny.github.io/releases/download/archive/Lchess_win_x64.zip) 
 [![Github](github_button.png)](https://github.com/avbezdolny/Lchess) 
-
 
 ## \# Godot 🎮
 
