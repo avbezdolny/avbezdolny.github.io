@@ -59,6 +59,19 @@ Download:
 [![Windows](windows_button.png)](https://github.com/avbezdolny/avbezdolny.github.io/releases/download/archive/Lchess_win_x64.zip) 
 [![Github](github_button.png)](https://github.com/avbezdolny/Lchess) 
 
+### CUBE (КУБ) 🧊
+
+Virtual 3D Mini Rubik's Cube!
+
+*Виртуальный 3D Мини-Кубик-Рубика!*
+
+![Cube](lcube.png)
+
+Download:  
+[![Android](android_button.png)](https://github.com/avbezdolny/avbezdolny.github.io/releases/download/archive/Lcube.apk) 
+[![Windows](windows_button.png)](https://github.com/avbezdolny/avbezdolny.github.io/releases/download/archive/Lcube_win_x64.zip) 
+[![Github](github_button.png)](https://github.com/avbezdolny/Lcube) 
+
 ## \# Godot 🎮
 
 ### BILLIARD (БИЛЬЯРД) 🎱
