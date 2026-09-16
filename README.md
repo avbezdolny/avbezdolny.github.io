@@ -17,6 +17,8 @@ A classic board game with balls for two players according to simplified rules.
 
 Download:  
 [![Android](android_button.png)](https://github.com/avbezdolny/avbezdolny.github.io/releases/download/archive/Billiard.apk) 
+[![Windows](windows_button.png)](https://github.com/avbezdolny/avbezdolny.github.io/releases/download/archive/Billiard_win_x64.zip) 
+[![Linux](linux_button.png)](https://github.com/avbezdolny/avbezdolny.github.io/releases/download/archive/Billiard_linux_x64.zip) 
 
 ### MAHJONG TURTLE (МАДЖОНГ ЧЕРЕПАХА) 🀄
 
@@ -28,6 +30,8 @@ Mahjong Solitaire is a board game for one person, similar in structure and gamep
 
 Download:  
 [![Android](android_button.png)](https://github.com/avbezdolny/avbezdolny.github.io/releases/download/archive/Turtle.apk) 
+[![Windows](windows_button.png)](https://github.com/avbezdolny/avbezdolny.github.io/releases/download/archive/Turtle_win_x64.zip) 
+[![Linux](linux_button.png)](https://github.com/avbezdolny/avbezdolny.github.io/releases/download/archive/Turtle_linux_x64.zip) 
 
 ### GAME 2️⃣0️⃣4️⃣8️⃣
 
@@ -39,6 +43,8 @@ Classic puzzle 2048 + 15 (tag)!
 
 Download:  
 [![Android](android_button.png)](https://github.com/avbezdolny/avbezdolny.github.io/releases/download/archive/Game2048.apk) 
+[![Windows](windows_button.png)](https://github.com/avbezdolny/avbezdolny.github.io/releases/download/archive/Game2048_win_x64.zip) 
+[![Linux](linux_button.png)](https://github.com/avbezdolny/avbezdolny.github.io/releases/download/archive/Game2048_linux_x64.zip) 
 
 ### БУКВА 🧩
 
@@ -48,3 +54,5 @@ Download:
 
 Download:  
 [![Android](android_button.png)](https://github.com/avbezdolny/avbezdolny.github.io/releases/download/archive/Letter.apk) 
+[![Windows](windows_button.png)](https://github.com/avbezdolny/avbezdolny.github.io/releases/download/archive/Letter_win_x64.zip) 
+[![Linux](linux_button.png)](https://github.com/avbezdolny/avbezdolny.github.io/releases/download/archive/Letter_linux_x64.zip) 
