@@ -5,7 +5,7 @@
 *Приложения также доступны в [RuStore](https://www.rustore.ru/catalog/developer/02481566), приятной игры ❤*  
 *Если хотите оказать поддержку или поделиться идеями и замечаниями, напишите мне [📧](mailto:networkoutpost@gmail.com)*
 
-## \# Godot 🎮
+## \# Godot Engine 🎮
 
 ### BILLIARD (БИЛЬЯРД) 🎱
 
