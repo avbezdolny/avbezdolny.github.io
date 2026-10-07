@@ -21,7 +21,7 @@ Download:
 [![Android](android_button.png)](https://github.com/avbezdolny/avbezdolny.github.io/releases/download/archive/LOVE_games.apk) 
 [![Windows](windows_button.png)](https://github.com/avbezdolny/avbezdolny.github.io/releases/download/archive/LOVE_games_win_x64.zip) 
 
-## \# Godot Engine 🤖
+## \# Godot 🤖
 
 ### BILLIARD (БИЛЬЯРД) 🎱
 
