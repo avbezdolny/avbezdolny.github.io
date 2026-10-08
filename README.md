@@ -2,18 +2,16 @@
 
 `🤘 Hello World 🤘`
 
-*Приложения также доступны в [RuStore](https://www.rustore.ru/catalog/developer/02481566), приятной игры* 😉  
+*Приложения также доступны в [RuStore](https://www.rustore.ru/catalog/developer/02481566), приятной игры* 🎮  
 *Если хотите оказать поддержку или поделиться идеями и замечаниями, напишите мне* [📧](mailto:networkoutpost@gmail.com)
-
-# Projects / Проекты 🎮
 
 ## \# Love2D ❤
 
-### LOVE games 📦
+### LOVE games ⭐
 
-A collection of games for intellectual entertainment \*Bukva, Cube, Chess, Mancala, Mines, Tic-Tac-Toe\*!
+A collection of games for intellectual entertainment \* Bukva, Cube, Chess, Mancala, Mines, Tic-Tac-Toe \* !
 
-*Коллекция игр для интеллектуального развлечения \*Буква, Куб, Шахматы, Манкала, Мины, Крестики-нолики\*!*
+*Коллекция игр для интеллектуального развлечения \* Буква, Куб, Шахматы, Манкала, Мины, Крестики-нолики \* !*
 
 ![LOVE](love.png)
 
